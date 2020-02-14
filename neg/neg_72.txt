@@ -1,0 +1,5 @@
+This GPS comes with US map on the SD card and Canada map on the included CD but never the twain shall meet.
+
+By car I'm a few hours from Canada and several days from the eastern US but I can't swap out the faraway eastern US part of the map on the TomTom Go 300 for a nearby Canadian map.  It's either all Canada or all contiguous US.  This is a major functional flaw if you live near the US/Canada border or live further away and like to take cross-border trips.
+
+Oh, and if you do decide to swap out the US map, be sure to save it on your computer first - TomTom doesn't bother to provide a backup on the CD so if you don't first make your own backup before changing to the Canadian map you can't later get the US map back

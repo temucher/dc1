@@ -1,0 +1,5 @@
+I'm a little surprised at the average low rating this product has received from other users.  Currently I'm running an AMD64 3500+ with 1.5gig ram.  The software installed easily the first time with no problems and in no time I was recording my first transfer from a VHS player.  I'm very comfortable using Adobe Premiere Elements 2.0 so that's what I decided to use instead of the bundled software.
+
+I've created over 25 DVD's successfully and tonight I decided to give the "Direct to disk" a try.  I recorded directly from the video source to the DVD and just like that, I had a single session recording that looked beautiful during playback on my DVD player.
+
+I have nothing but praise for the ease of use and dependability of version 3.7.  I have used other hardware packages on lesser systems and yes, there were many problems.  But after upgrading to something with more power like the AMD64 with 1.5gig ram...well...it was a whole new ballgame.  Everything worked as advertised.  Just as it should

@@ -1,0 +1,16 @@
+Overall, this keyboard is great.  Here are what I like about it:
+1.  I can fly on this key due to it's relatively soft keys (I think there are softer keyboards, i.e. less resistance when pressing down.  God, I miss my SPAR station keyboard, but can't use it with a PC :( )
+2.  LCD screen has huge growth potential for other info display.
+3.  lighted keys (this can be a bad thing too).
+4.  Programmable keys, lots of them!  (can be a headache to remember them too)
+
+The flaws:
+1.  The lighted keys uses a bright blue color, even at the dimmest setting it's still not good.  Here's some physics for the designers:
+The human eye doesn't sense blue well in the dark, and thus the pupil stays wide open, and the blue lights can be seen as a bad glare.  Same effect of having one of those expensive HID xeon headlights beaming at you.  So why is this a problem on a keyboard?  well, you would most likely use it in the dark with the key lights on.  However, your peripheral vision will have this blinding glare, it could make some people dizzy or have some optical illusion that's not going to sit well with your eye's scan rate.  Suggestion for the designer:  use other less intrusive color for the LED, possibly red, orange, green.  Hell, make them selectable!  Blue would not be my first choice.
+
+2.  The USB plugs on this keyboard doesn't support my USB 2.0 flash drive, BAD!!!!  If you are going to provide an USB port, do it right!
+
+3.  The black soft rubber surface on the edge and LCD back cover is a dust magnet.  They provide some good traction when you grab them, but they also grab dust like nothing else, so you'll endup with an impossible to clean black surface.  Lesson learned, don't eat snacks near the keyboard, or your keyboard will end up with lots of nice snacks for the dog to lick :D 
+Ok, duck tape would fix that, but... I'm lazy!
+
+Other than that, it's a solid keyboard

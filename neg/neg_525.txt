@@ -1,0 +1,5 @@
+What do they say about fools and money?
+
+HDMI uses TMDS which is a digital transmission system with built-in error correction. TMDS has been designed to work over cheap cabling and a $10 HDMI cable will meet the specification. If you spend 9 times more on this cable than another one then you have just wasted $80. That's all there is to it. 
+
+You don't need expensive shielding or gold plated connectors for a cable. The picture or the sound are not richer or more vibrant with a $90 cable over a $10. In fact the signal is identical. Let me repeat - HDMI (& DVI-D) devices talk digitally with error correction. This cable and ones like it are for suckers only.

@@ -1,0 +1,1 @@
+The system worked out of the box allowing me to quickly link up additional devices in an in-home office which had a single network connection. Haven't measured simultaneous throughput to multiple computers yet, but from simple observation connectivity seems transparent. Should allow for movement to gigabit switching in the future as well

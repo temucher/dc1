@@ -1,0 +1,14 @@
+PROS
+
+Small
+Cute
+Self-powered - comes with a power adaptor.  I have 6 devices hooked up to it, including 2 USB Hard Drives, and it works fine without the adapter - a big plus for me. Most hubs would not work with this setup.
+USB 2.0 & 1.1 - 6 devices hooked up, 3 low speed and 3 high speed, all work very well.
+Runs cool.
+
+CONS
+
+Not sure why, but they put the 7 ports on one side of the hub and power/uplink ports on the other.  This is dumb.  If you have the hub on a desk it looks awkward.  All ports should be on the back and leds on the front.  Here, the leds are next to each port which makes them completely useless as you don't see them.  
+The hub is very light so when you have lots of devices hooked up the font gets a elevated.
+
+Overall, the best hub I've ever had and I tried many

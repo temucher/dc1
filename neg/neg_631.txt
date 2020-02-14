@@ -1,0 +1,3 @@
+We have 50+ of these cards at work and I have 4 at home.  I have never seen a more "fragile" PCI card.  If you slam a door or stomp your feet near the PC, this card may very well cease to function on the next reboot.  God forbid you attempt to move the tower.  Every other day, someone has a malfunctioning card which needs to be jiggled, removed and reinserted, or otherwise screwed with.
+
+When it does actually work, the connection is usually good

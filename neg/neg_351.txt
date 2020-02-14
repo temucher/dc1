@@ -1,0 +1,1 @@
+A nice device, but Microsoft didn't include software that encrypts the fingerprint image. Although very difficult to do someone *could* steal your fingerprint. To be safe I would not use this fingerprint reader for password protected websites that contain sensitive information or for network admin or computer BIOS privledges

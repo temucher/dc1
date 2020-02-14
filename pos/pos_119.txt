@@ -1,0 +1,3 @@
+The unit itself works great.  Much faster transfers than using the usb cable directly to my camera.  However, the software includes a "monitoring" feature, which checks every second or so, to see if you've plugged in a card.  I opened up Windows Task Manager to discover that, each time it checked, it was consuming 25% of system resources (on/off each second).  No wonder my computer has been slower lately, especially if I have my image editing software open (duh).
+
+My recommendation would be to skip the San Disk software and access the card reader directly from My Computer, as mentioned in another review below

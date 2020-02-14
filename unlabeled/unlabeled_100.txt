@@ -1,0 +1,27 @@
+First of all, here are my computer specs:
+Pentium 4 2.8 GHz/800 FSB
+1 GB DDR2 RAM
+2 SATA 7200 RPM hard drives: 80 GB (boot drive), 250 GB (movie drive)
+Graphics card: ATI Radeon X300 PCIe 128mb
+Sound card: SoundBlaster Live 24-bit
+VCR: consumer-grade Sony SLV-N750
+
+My DVD Xpress model number: USBAV-701 Rev. 2
+
+My purpose: To archive old tapes to DVD.
+
+Installation of the drivers/software was a quick and painless process. Within minutes, I was already capturing my very first video. This unit works very nicely with retail VHS tapes (I found that it does not respond to Macrovision, though I only tested one tape), home movies, and off-air master tapes (tapes that were recorded from television broadcasts). At first, I captured a short promotional music video at 8 Mb/s in a resolution of 720x480. This produced a video which was at least as good as the original tape. There are bars around the borders of the screen when viewed on a computer, but televisions have something called overscan which prevents all the extraneous stuff at the borders from being seen.
+
+Then I captured a longer home movie, which clocked in at under two hours but would not fit on a single-layer DVD. My original bitrate of 8 Mb/s was too high, and the higher bitrate wasn't really helping the video quality too much. But if my bitrate is too low, the video will be of a poor quality when viewed on a TV. Perform a google search for "videohelp bitrate calculator" and click on the Videohelp bitrate calculator link. I use the calculator to figure out what bitrate I should capture in, according to the total time of all the programs I want to put on DVD. Below 7 Mb/s seems to be the cutoff point where more artifacts start to be seen during playback, but it's ultimately a personal choice based upon how you want to archive your movies.
+
+After capturing this longer movie, I found the unit to be unresponsive and the bottom was extremely hot. Now, whenever I operate it, I point a small fan at it, and this seems to keep it cool and running well. But keeping the unit cool shouldn't be the user's responsibility, so it loses points for temperature.
+
+While this device works well if the input video has a stable picture, a few of my tapes are of lower quality and have a lot of garbage in the picture from generational loss (being copied several times). I tried capturing one of these tapes, which was of a TV show from 1993, and the DVD Xpress did not handle it very well. The result had a lot of flickering images and was ultimately unsatisfactory. I am disappointed with this.
+
+On the other hand, I have a tape that was recorded from TV in 1988. It is the master copy, so there is no generational loss. DVD Xpress was able to capture it just fine.
+
+Not once during any of my captures did audio & video get out of sync, so credit where credit's due to ADS Tech for that.
+
+After a few days of experimenting with this capture device, I definitely want to keep it. I look forward to finally being able to clean out my VHS closet.
+
+My recommendations to other buyers: Understand your source, and you won't be disappointed. There is no way you can make your 10-20 year old tapes look pristine again. But if the video signal is strong and stable, the DVD Xpress should be able to capture it with no problems

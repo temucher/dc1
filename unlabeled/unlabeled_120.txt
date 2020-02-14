@@ -1,0 +1,14 @@
+If you own a Canon camera, Canon does NOT support WA (Write Acceleration) feature of Lexar's high-speed cards:
+
+http://www.lexar.com/digfilm/wa_cf.html 
+
+Current camera partners supporting Write Acceleration Technology: 
+
+-Kodak Professional 
+-Nikon 
+-Sanyo 
+-Sigma 
+-Pentax 
+-Olympus 
+
+Other than that, this is a FAST card, if your camera supports WA, otherwise, it may run at just standard speed and in that case why spend the extra $$$?  Look up your camera on the link before you buy

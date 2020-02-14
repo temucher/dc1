@@ -1,0 +1,13 @@
+I bought this adapter along with the Linksys WRT54GL Broadband Router.  I managed to set them up and install them properly.  (The best advice I got from the "Home Networking for Dummies" book was to get a 100 foot Cat5e patch cable so that I could put my router in the place I where I wanted it, and hook it up with a wired connection first.  I actually only needed a 50 foot cable, and got it for $20 from a local electronics supply store.)
+
+So I got everything up and running (remember to install your router first, and then your network adapter), surfed the internet for awhile, and then shut down my computer.  Here's where the trouble started....
+
+As other reviewers have noted, the Linksys installation makes changes to your Windows XP configuration, de-activating the Welcome screen and the feature Microsoft calls "Fast User Switching."  This happens with no warning.
+
+When I went to turn on my computer again, I got a new start-up screen for Windows, demanding a password.  I freaked out, because I don't remember ever setting a password for Windows.  I called Linksys, and was extremely unimpressed with their customer support.  The young woman seemed to be amused by my problem, and was actually laughing at me.  She began to start me through the process of completely re-setting the router to the factory settings (this would NOT have helped).
+
+What finally helped was figuring out (with no help from Linksys) that if you never set a password for your Windows XP logon, all you have to do is hit "Enter" at the password prompt.  That's all there is.  Linksys could have told me this, or better yet, warned before installation that these changes to Windows XP would take place and suggest setting up a User Password in advance.
+
+Another gripe about this network adapter and the Linksys router--neither came with instruction manuals.  There is a 60-page instruction manual on the CD rom that comes with the product, but you'll have to print it out yourself (Do it before you install or try installing the product).  In the case of the router, I also had to do deep searching to actually find the instruction manual on the CD-ROM--it wanted to start up the Setup Wizard automatically and the instruction manual was not easy to access from the CD-ROM.  I guess this may be the norm now with computer hardware, but it still stinks.
+
+I do not recommend the Linksys WUSB54GC, primarily because of the unannounced changes it makes to the Windows XP system, and because of Linksys' non-existent or non-functional and rude customer support

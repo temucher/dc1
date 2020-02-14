@@ -1,0 +1,10 @@
+I bought this card for my TJ25, supposedly a supported device. But the problems with this card make it nearly useless:
+
+- It comes with a web browser that doesn't work.
+- Even if the browser DID work, it would only work for 30 days before you had to buy the full version.
+- The only downloadable browser that works with the card is Eudora, which doesn't do anything except display text (you can't even fill in web forms with it, so webmail, searches, etc. are impossible).
+- The card is designed to work with NetFront and CLIE Mail, software that comes with Internet-enabled CLIE devices... obviously not what you would have if you were buying the card. These programs are not available separately.
+- The card wouldn't connect to either my wireless network or the neighbors', even though my PowerBook has no trouble connecting to either, no additional configuration required.
+- While attempting to connect, the card would often stop responding, and then lock up the handheld.
+
+Bottom line: if you want a web-enabled PDA, buy a web-enabled PDA. Don't buy this

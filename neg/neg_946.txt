@@ -1,0 +1,7 @@
+I bought this phone for a work-at-home situation.  I then discovered that the maximum number of characters I could enter into  a speed dial entry (the number itself, not the name) is 24 characters.  A telephone calling card number is 25 characters long, 26 if you program a pause (a space, for this phone) between the phone number and the card id/pin.  When I called Polycom about it, I was told that not everyone uses calling cards.  Funny.  I've been issued a calling card at every company for which I've worked (going back 25 years).  This is the only phone I've ever owned (well, since the 80's) into which I could not program my calling cards.  Pretty basic stuff for product marketing and development people to miss.
+
+On top of that, when I try and enter the calling card number and card id by hand, it never "takes" on the first try: the network doesn't recognize the card id and pin the first time I enter them.  I have to do it twice (I've tried this a number of times, and it's consistent).
+
+For that matter, the sound quality, especially through the headset (also purchased from polycom) is not that good.  Of course, that could be because the headset jack is "loose."  You can easily move the jack from side to side, which makes the sound quality even worse. 
+
+I regret having made this purchase.  I'm going to scrap it and look for a new one from a different manufacturer.  The only reason I gave it one star is because the site interface here won't let me give it no stars

@@ -1,0 +1,6 @@
+I got this print server about a month back. Initially it took me 4 hours to get this thing installed and running in the wireless mode! After I got it setup, it worked fine for a week. But, then the wireless connection with the print server got flaky, so I switched to the wired mode. All was well again, but then after a couple of weeks the wired connection got flaky. It stopped printing and didn't recognize my HP-1200. After fiddling around with it for a few hours I finally got the contraption working again.
+
+But, now my latest problem is that the print server prints garbage to the printer! Plugging the printer directly in to a computer works fine, but the print service somehow corrupts the data going to the printer and I end up with pages of garbage and error messages.
+
+SUMMARY:
+This thing was a beast to set-up and every time something goes wrong, it takes a phenomenal amount of time to debug and correct. That's in addition to the questionable reliability of this device. I say steer clear of this thing. I'm now shopping for something better and never buying D-Link again

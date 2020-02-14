@@ -1,0 +1,8 @@
+The last soundblaster I had used was a soundblaster Live a couple of years ago. Since then, I've been relying on onboard sound on Nforce based motherboards. Sound quality was okay, but there always seemed to be issues with the drivers and a fair amount of background noise on the analog outputs. I decided to upgrade to the X-fi when I started to have sound dropouts while playing Oblivion. 
+
+Sound quality from the X-Fi is great, especially with headphones. I'm only using the Drive bay I/O panel for the headphone jack, but the price of the Platinum version wasn't much more than just the basic card, so it was money well spent. If I had this set up as a media center PC, the remote control functions would make this an even better deal.
+
+A few notes:
+-I had no problems installing this on an NForce4 based motherboard (Asus A8N-SLI Deluxe)
+-The I/O drive bay only comes in black. If you still have a tan case you're out of luck
+-There is a digital SPDIF output available on the back of the card. It's a mini 1/8" jack, and unfortunately no adapter to RCA jack is included

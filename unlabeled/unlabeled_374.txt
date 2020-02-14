@@ -1,0 +1,9 @@
+This adaptor is great, especially for the price.  Installation was as easy as it gets, right out of the box.  I had it up and running through a WEP-enabled local network and surfing the web in 2 minutes.  It locked on to the network in under a second and never dropped the connection.  Both FrontPage and ClieMail ran fine.  Speed is maybe 80% of what I get on my laptop running a 333 MHz. Celeron and a PC card 802.11b adaptor.  Just be sure your PDA is on the (small) list of supported devices.
+
+Negatives: it's not the sturdiest looking thing in the world.  I wouldn't leave it in the Clie when not in use and I sure wouldn't want to drop it on the floor.
+
+It does chew through the battery, but not any more than the backlight.  I did a test with my UX40, with the backlight set at minimum (ie. not off entirely) and using CliePet's UnderClock app to slow it down to 96 MHz.  This is a good combination of power saving and usability.
+
+Then I got on the net and loaded pages non-stop.  Starting from a fully charged battery, it ran 55 minutes before the first alarm.  I was able to get another 20 minutes of intermittent use out of it after that.  I consider that perfectly acceptable.  With an EB40 extended battery you should easily be able to get 2 to 3 hours of use out of it.
+
+Overall, a great add-on for a fraction of the price of a UX50

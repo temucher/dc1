@@ -1,0 +1,7 @@
+This is not technically a review, although based on what I've read I do plan on buying one of these.  However, I found something on smarthome.com which will inter-connect the two main circuits that most houses have, thus allowing devices like this (and X10) work from any outlet to any other.  This is not yet tested by me, but is at least promising.
+
+Device is here:
+http://www.smarthome.com/4816b2.html
+
+Explanation is here:
+http://www.smarthome.com/images/4816dgm_big.jp

@@ -1,0 +1,5 @@
+This laser version tracks much better on odd surfaces compared to the Logitech V200 I have.
+
+The Setpoint software allows you to use Setpoint's mouse sensativity independent of the touchpad settings.  Finally!!!  I dont have to change mouse sensativities when I unplug it.  The Setpoint sensativity is an offset to window's sensativity setting for the touchpad.  So basically, set your touchpad sensativity first, then adjust the Setpoint sensativity.  They will be work just the way you want everytime you unplug/plug the mouse and going back and forth between touchpad and mouse.
+
+Perfect product

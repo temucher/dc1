@@ -1,0 +1,9 @@
+Application is dual input from cable TV input and analog PC input, used as side monitor on a triple screen home computer workstation.
+
+1) Audio output stops intermittently a few times a week, requiring power off/on to regain audio.
+
+2) There appears to be no way to disable unused source modes.  To switch from computer input to TV input requires one push of the Source button...... but then to return to computer input requires 4 button pushes - as the TV cycles thru AV, S-Video, Component modes, and finally back to PC mode.  A weak design - the unit should recognize which input is enabled - it is not possible to hook up all 5 modes.
+
+This is particularly irritating as this model was marketed as a TV/PC monitor.
+
+Picture quality is acceptable for the application, which is primarily watching news channels while working at PC, or displaying dual PC applications

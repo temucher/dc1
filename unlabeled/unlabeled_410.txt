@@ -1,0 +1,7 @@
+The NuLOOQ is an inexpensive and really fun way to fly through images in Photoshop when cloning out specks or needing to move throughout an image with lightning speed. The Pan/Zoom function is tremendous! 
+
+It's a programmable tool where you can add photoshop tools and actions to the Tooldial for instant access at the mouse location, rather than moving to the menu bar all the time. This is a great time saver because you can program in redundant tasks to appear on the tool dial to be clicked in a moments notice.
+
+Changing brush size is as simple as turning the tool tuner to the appropriate brush size, in real time.
+
+I highly recommend it to speed and simplify one's workflow

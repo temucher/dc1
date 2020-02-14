@@ -1,0 +1,1 @@
+Wish the unit had a separate online/offline light.  When power to the unit is missing, the single red light turns off only when the warning sounds.  The warning sound is like a lot of sounds you hear in the house so it isn't always easy to tell what is happening

@@ -1,0 +1,22 @@
+Bottom line - best major purchase I have made since I bought a home with a finished basement!
+
+I got the projector and mounted it on the ceiling in my basement projecting on a light-brown wall. I expected that I would need to paint the walls white, or get a screen, but was shocked by the amazing picture quality. Here are the details:
+
+1) Comcast Cable with HiDef Box. Hidef program is so amazing it makes me want to cry. Sports programing blows the mind away. I even enjoy watching boring hi-def shows with the wife, like the Oscars, just because I am so amazed at how crystal clear the picture looks. You feel like you are there! Regular TV looks surprisingly great too, but setting it up right is critical. Make sure to change the aspect ratio back to Native (vs 16:9 when watching hi-def channels).  Ensure that the HDTV cable box has the following settings:  
+Aspect Ratio (controls regular programming) = 4:3 letterbox
+Output Type (controls High def programming) = experiment with 720P vs 1080i
+4:3 overide (controls regular programming)= 480p.
+I am also using the expensive $99 monster DVI cable to connect to the cable box. This is essential to make regular TV look great vs grainy.  Get the DVI to M1 connections, wires and adaptors - you MUST budget this into your overall budget or the projecter will not be a great buy (see my "problem" section below).
+
+2) X-Box. I purchased the Hi-Def cable/wire from Microsoft for $20. Once you buy the cables, you can go into the Xbox dashboard settings to allow for 720p and 1080i. Most games are in 480p and 16:9 format. The few Games in highdef look fantastic!  You can check hdtvarcade.com to see the exact resolution of every game.
+
+3) DVD player: Since the Xbox only outputs in 480i, I wanted to try the upconversion DVD players. I first tried the Denon 1910. That did NOT work when using a DVI cable!!! It might have been because it was refurbished or possibly it was because the Infocus X2 is not HDCP compliant?? I'm not sure, but the 1910 warns against non-HDCP compliant units and InFocus says that x2 is non-compliant - so that's my best guess. Next I tried the TOSHIBA SD-5970. That worked, and I hooked it up using the $99 Monster HDMI to DVI cable. I'm not sure if it was worth it, because DVD's look great, but NOT Amazing compared to HiDef Comcast programming. The verdict is still out, but I have never seen any of the DVD's like Finding Nemo that supposedly look MUCH better with progressive scan DVD's. I can't tell much difference between when DVD is set to 720p vs 1080i HDMI output.
+
+Once again, everybody that comes over, including the sceptic wife, is shocked by our basement - they all say its like a full-scale theater, much bigger and clearer than a regular big screen TV and I don't even have surround sound yet - that'll be my next big purchase. Infocus X2 is highly recommended, but be sure to check out the problem section below: 
+  
+Problems 
+1) My InFocus X2 does not have any component inputs. That means to get premium quality, you must come through the M1/DVI input. If you have a DVD, Cable box and Xbox like me, it is a real pain to switch the cable in the back (especially with a ceiling mount). I got myself a step ladder to make it easier. The DVI switcher for 4 DVI cables is TOO expensive, almost $400.
+
+2) Be prepared to spend at least $3-400 after you get your InFocus to purchase DVI cables for the cable box, possibly HDMI cables if you buy a progressive scan DVD player, as well as adapters to connect your DVI cable to the M1 computer port... Its definitely worth it, but just be prepared.  In my opinion, the progressive DVD player is optional (saves you approx $150), but the cables are mandatory.
+
+3) No way to turn off unit with remote (and yes it is still a little noisy in whisper mode, but once the movie starts you can't hear it anymore). I have it set-up so that after it cools/powers down I just turn off the entire unit on the wall switch since it is ceiling mounted. 

@@ -1,0 +1,1 @@
+It is a compact flash reader/writer and it does exactly that. So I am happy with it

@@ -1,0 +1,9 @@
+Originally purchased to supplement & provide a tangle free connection to 
+power source.After reading product manual,PowerSquid should be connected
+to dedicated power source 110 volt outlet.It is not recommended that 
+PowerSquid be used with temporary power strip application...with or without
+surge protection. Use of Power Sentry 5-outlet PowerSquid should be used in 
+accordance to sound electrical application. Do not overload or connect grounding 
+cheaters in non-grounded 110 volt systems.Use with stand alone generators
+ should be closely monitored and PowerSquid not be used beyond generator's 
+capacity

@@ -1,0 +1,3 @@
+I've owned various Viking branded memory cards in the past and have always been pleased with their performance, until I purchased this 2 GB CompactFlash card.  
+
+It's possible that this card works well in other uses, but I found its performance unacceptable as storage for RAW images shot with my Canon Digital Rebel SLR.  Anywhere from 1/5 to 1/10 of the images were corrupted, particularly bad in continuous shooting mode.  Contrast with my Lexar Media 512 MB and 1 GB cards, which were able to shoot reliably with no corrupt images under the same conditions, and without as much of a lag time as the Viking card (often left waiting 15+ seconds after shooting as few as 3 continuous images while the card to "recovers")

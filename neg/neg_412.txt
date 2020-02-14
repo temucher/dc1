@@ -1,0 +1,7 @@
+The keyboard with this set is flimsy and cheap feeling.  
+
+Worse, the layout is nonstandard: they've messed up the key cluster above the arrows (Insert/Delete/Home/End/etc.).  And the right hand Ctrl is not below the right end of the Shift key, it is under the left end of the Shift key, where one of the Windows keys (the context menu one) normally is.  They've taken out one of the Windows menu keys, too.  
+
+The wireless features worked fine (I've used it two days) and worked even without installing their driver software (something I'm always reluctant to do).  I think some of the extra buttons (multimedia controls) on the keyboard don't work for me, because of this.  I use the computer it's on for work, not screwing around, so this doesn't bother me.  (I have it installed on a Thinkpad laptop so I can keep the screen farther from my eyes, and my employer bought the thing; it wouldn't have been my first choice.)
+
+I've given it two stars only because it worked great, out of the box, with no driver software.  (This is on a Thinkpad running WinXP.)  I'm already dreading the battery usage (based on another review here).  Thankfully, it's not my main keyboard

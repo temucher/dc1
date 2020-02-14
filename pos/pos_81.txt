@@ -1,0 +1,15 @@
+My setup:
+- Dell Latitude PP01L (Intel chip)
+- Win XP Pro
+- D-Link DI-624 Wireless Router (with two walls inbetween the laptop and the antenna)
+- Enabled the WEP feature
+
+I unplugged the old wireless card and simply plugged this in.  Windows found the new card and did its Plug-n-Play thing.  Not only was I was able to get on the Internet immediately, but the card picked up two other signals in the neighborhood that I couldn't 'see' with my 11MB/sec Cisco Aironet card.  This I sort of expected, but was still a bit surprised being that my closest neighbor is beyond the range of most wireless routers.
+
+The CD installed just fine, but when I went to the D-Link site to check for an updated driver it said I was up-to-date.  I ran Windows Update and it claimed I had an updated driver available for my new D-Link card. I've never had a problem with D-Link's website (or customer service, while we're on the subject), so I was a bit taken aback that Microsoft was ahead of D-Link's site.  
+
+Either way...  install the card and get onto the internet, then have Windows Update check for possible updates.
+
+Be sure to enable the encryption feature.  If you are running a small network of computers where you are sharing folders then you want to be sure that your neighbors can't go snooping through your stuff.  Or worse, lift the signal, and ultimately your personal information.
+
+I've had no problems with my current set-up.  I HIGHLY recommend this card to bring your laptop/desktop up-to-date

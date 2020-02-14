@@ -1,0 +1,37 @@
+If TomTom's maps fail and you submit a bug report, the nice support site sends you to TeleAtlas's site which promptly CLOSES the support request.  It took two requests before I realized I was being redirected away from TomTom's site.
+
+The real problem is not with the maps (which is a good thing), but with the mapping engine (determine how to find a point on a map).  I submit the request to the main support group only to have those bozos close the request saying that the problem is with the map.  At this point I don't care who is wrong since neither TomTom nor TeleAtlas will say who owns the mapping engine.  This stupid device failed when I needed it the most, driving in New Jersey! The TomTom Go 300 cannot map roads that are broken, see bug submission below for more information.
+
+So, why two stars?
+- It fails when you need it
+- I could scroll around the working map and find the right street, but then I need to stop in an unsafe state .. er .. I mean place and use the device like it was my trusty AAA map.
+- Support does not read bug reports (I want that job with zero accountability please!)
+
+Does it work? Yes it does and it does work very well when you have a nice clean streets with a good map.  It does take some time to find its GPS often, but its tolerable. It manages to lose signal with tree cover (seriously, I can still see the sky).
+
+Moral of this review: verify with an online map service BEFORE driving to unknown places.  Defeats the prupose? No.  TomTom Go 300 did find my way around some detours in NJ near Trenton and get me into the parking garage saving me time and frustration (the prupose of this device).
+
+Updates:
+After using TomTom Go 300 for a few months I have seen more problems than I care for.  I have recommended everyone in my family to not buy TomTom products.  The map for my area, King of Prussia, PA more than two years out of date.  It got my dad lost going to a hotel which is 1.3 miles away from me.
+
+In some areas, you will fall off the map.  The most annoying new feature is TomTom alterate route functions.  I am headed to a fork in a road in the middle of nowhere.  TomTom wants me to take the "long" way to my destination by switching from the State Route (meaning Route 1 or Route 66) that I'm on to the another State Route at the fork.  The thing is, if I tell it not to take the other State Route, the damn device will tell me to turn around!!  Once I pass the fork it keeps telling me to turn around.  When I choose to re-run the routing software from where I am, it figures out a new route completely passing the road that I need to take.  The road is on the TomTom map, but it won't take it until I get on to it.  WHAT GIVES?
+
+Bug Report submitted to TomTom
+-------
+TomTom Go 300 v6.150
+The mapping engine is BROKEN.  It cannot handle a road that is broken into several non-contiguous sections.  The city, Pennsauken, gave several distinct streets the SAME name!
+
+Destination:
+3401 Cooper Ave, Pennsauken, NJ 08109
+
+
+If you map the destination on any Internet site and scroll around, you would see that:
+
+[...]
+All points map to real locations but are not on the same physical road.  They are on different roads by the same name in the same city.
+
+The TomTomGo 300's map actually has these locations on it, but is UNABLE to map to anything but the first OCCURANCE of Cooper Ave: 7200 Cooper Ave, Pennsauken, NJ 08109
+
+Trying to find the intersection (cross street) of two streets Cooper Ave and Park Ave does not work even though the TomTom's map clearly shows that they do intersect.  TomTom can only see the intersection of Cooper Ave and Derousse Ave.
+
+That area has several other streets, Sherman Ave for example, that are also non-contiguous

@@ -1,0 +1,7 @@
+I had high expectations for this product, having bought some of Sandisk's other products. The problem with the e280 is that Sandisk doesn't give users the control or the versatility over file management. For example, using it in the (mass storage) MSC USB mode, one is forced to create playlists in Windows Media Player. This works, but one of the drawbacks is that playlist creations can be plagued with files that have errors or are skipped. 
+
+It would be far better if one could just drag folders and music mp3 files to the right folder and play them, with multiple folder levels. This would allow catogorizing music the way the user wishes; instead, Sandisk adopts an almost Microsoft mentality in its approach. "It's our way or the highway." Once one masters creating playlists, they have to settle for dumping them all into one directory.
+
+It's too bad because reading the manual and reading the reviews, one can easily get the idea that the e200 series can be set up like just another USB storage device (including other, previous Sandisk products). Well, you can, but it won't make much difference if the device won't play.
+
+

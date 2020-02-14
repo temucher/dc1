@@ -1,0 +1,5 @@
+If you have a Palm, read this before buying this device:
+
+&#60;&#60;&#60;Although our SD GPS card should work with Palm OS without a driver as its NMEA-0183 compliant, currently we are not aware of any 3rd-party software that supports our SD GPS card. Based on this I regrettably have to say that at this moment it does not work with Palm OS device. We are currently in the process of developing a Palm OS driver that will allow the device to be used independent of 3rd-party software support. When this becomes available it will be posted on our website.&#62;&#62;&#62;
+
+I bought this for my father for Christmas. It cost a lot of money. We all got really excited about it. It doesn't work. :

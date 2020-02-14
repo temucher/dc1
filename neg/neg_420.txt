@@ -1,0 +1,1 @@
+This adapter will not work at all with Windows XP SP2 - despite any promises from the Linksys website, this cannot be setup - buy the Anycom adapter instead

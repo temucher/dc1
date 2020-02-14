@@ -1,0 +1,13 @@
+I have owned this little hub for at least a year. I have an older PC which came without USB, so I added a PCI adapter. I soon realized that I needed more ports, and more convenience, than the two now located in the backplane of the PC on the floor.
+
+I shopped around, and this item looked appropriate. As for the short cord, I solved that issue by getting a USB extension cord at the same time. Besides solving the immediate problem, this approach gave me the option of moving the hub to my laptop at some point, and using the extension cord for some other purpose.
+
+For a long time it did exactly what it was supposed to do. I attached an external hard drive through it. I used it for a compact flash card reader, and a digital camera. I connected an inkjet printer. Everything worked, once the drivers were installed and everything was set up correctly. (This was all with Windows 98 SE.)
+
+But after a while, things started getting less reliable. The system would tell me that various "drives" (on the flash card reader, or the external hard drive) were not available. Or the digital camera would not stay connected to its software. And the printer even started disappearing.
+
+Playing with the cables and connectors would sometimes bring devices back to life, and eventually I deduced that there was something wrong either with the connectors themselves being too loose, or with wiring inside the device. Either way, it has finally become a big problem, and I am shopping for a replacement.
+
+Most of the devices I connected were self-powered, that is, they did not need to draw power from the hub or the PCI channel at all. The hard drive, camera, and printer were all powered by batteries or AC adapters of their own. And the flash card reader, which did draw power from the hub, used to work fine. It does not matter what combination of devices I try, sooner or later the connection goes bad.
+
+It is of course possible that there's something wrong in the PC -- but that would not explain why things are improved by messing with the connectors or the hub itself. So I have to recommend against buying it. I suspect it is discontinued and that this advice won't be necessary for much longer, but I want to prevent somebody from the bother I've been through, just in case

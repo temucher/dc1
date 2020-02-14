@@ -1,0 +1,15 @@
+This is a product too unique for me not too try.  I've struggling with lost receipts and always in a panic mode when tax day comes.  There's just no other easy way I've found to keep track of all my receipts.  
+
+Even with some of the negativity about the accuracy on the receipt recognition, I still wanted to try this out for myself.
+
+I noticed the following will increase the accuracy of the receipt scanning:
+
+1) Scan your receipt ASAP once you have it.  Receipts are pretty cheap in quality and will fade over time.  Also for that matter, you risk the chance of loosing the receipt the longer you don't scan it in.  =)
+
+2) Ink quality on the receipt matters.
+It does the best job when the dots of the letters/number are together and dark.
+
+3)wording on the receipt.
+e.g. the receipt can say visa/mc then scanner will pick it as visa.
+
+Business card scans have been excellent for me.  Be sure to upgrade your sw to the lastest version.  Mine is 2.55 at the time of writing

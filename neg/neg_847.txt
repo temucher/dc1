@@ -1,0 +1,19 @@
+When realtime traffic monitoring came to my city, I immediately started looking at solutions to help my wife's daily business driving (2-500 miles weekly, crisscrossing a 50-mile area through major traffic routes). I quickly settled on an automotive GPS with realtime traffic monitoring. There are not yet many choices in this area, so the options boiled down to this unit and the Garmin 2720. (These use FM radio for the traffic info; the XM-radio units like the TomTom 700 and Garmin 2730 had unacceptably high monthly costs since I don't want XM radio.)
+
+I chose the Cobra for its large screen and positive reviews in areas that were important to me. Its flawed routing ability was not a major issue as it was to be used in a well-known region. Address lookup and traffic monitoring were the primary needs.
+
+In short, I don't know much about how the Cobra performs because I was only able to use it for a few short test trips. This is because the mounting hardware is one of the most deficient pieces of engineering I have ever encountered in higher-end electronics gear:
+
+- The only mounting option is via suction cup, which in tests would adhere reliably only to nearly flat glass. A stick-on disc for attaching the suction cup is also provided, but I did not attempt to use it and would not trust it to be able to hold this heavy (1.25 pound) unit over the long run. If your vehicle does not have a flat section of windshield in a convenient location, you will have very few options for mounting this unit.
+
+- California law prohibits attaching things to the windshield, meaning that California users either need to risk a minor ticket or find an acceptable alternate mounting point. (Good luck to you: I was unable to find one in three different vehicles!) Compounding the problem is that the mount has a very limited positioning range and easily runs out of adjustment room for most potential mounting alternatives.
+
+- Cobra does not offer any other mounts or mounting accessories at all - no beanbag or friction mount, no clamp, no fixed-base mount, nothing. If there is any aftermarket option (RAM Mount, etc.) I was unable to find it. You are stuck with Cobra's proprietary mount unless you are willing to modify the unit or its mounting pieces and fabricate an adapter for a Garmin or RAM Mount base.
+
+I was *almost* willing to go the extra mile to make this unit work in my vehicle, even though the best solution would have been very awkward to dismount and remount, making it a potential theft target.
+
+The final straw was when I found that the traffic receiver was faulty and I was unable to get a reply from the manufacturer in a timely manner (two days now and counting...) Enough's enough; something was telling me that this unit wasn't the right choice.
+
+So this unit is being returned and I've already ordered a Garmin 2720 with GTM11 traffic receiver in replacement. The prices for the units through Amazon are nearly the same (especially when factoring in the costs for 15 months of traffic monitoring - the Cobra comes with three months and gets $60 per year after that, while the Garmin comes with 15 months and has the same annual cost after that - so you have to add $60 to the Cobra to get a truly equivalent price). Garmin also has excellent mounts with a range of attachment options, some of the best map and routing tools, and a long track record with GPS units. It does have a smaller screen and some complaints about the user interface, but at least I can mount it properly and be able to tuck it away and remount it easily to prevent theft.
+
+This unit gets two stars only because my brief experience with its function appears to live up to all the positive reviews - but overall, it's like a high-performance sports car with no wheels! I 100% recommend against it for California users and suggest that others try to lay hands on a sample unit to see if it can be properly mounted in your vehicle before laying out $750

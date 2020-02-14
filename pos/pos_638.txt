@@ -1,0 +1,7 @@
+Installation on a normal home network setup is very easy. My setup was a little more complex due to voip router, and 2nd wireless router. Sling has instructions on their web site but I still had to mess around with my settings in order to get it to work. To work on multiple routers you have to do port forwarding on both routers to port 5001. Once I worked this out everything is great. 
+
+Video quality is good in the house, haven't tried it from another location. I'm running the Sling AV with Netgear Ethernet power adaptors to my router and then watching TV via wireless to my laptop. Now we can watch TV in any room of the house. My wife loves being able to watch the news in the morning while in the kitchen. She also loves being able to surf while having a show running in a small window on the side. 
+
+Control of my Dish DVR is very good. We can manage any feature of our Satelite/DVR box. This will come in handy when we travel as we have our sons Seaseme Street shows on the DVR and now we can take those with us on the road. 
+
+Overall, I'm pleased with the Sling AV. It offers good performance at a great price point. Now Sling just needs to get the Mac version out so I can watch TV on my beautiful 15.4 inch Mac Book Pro

@@ -1,0 +1,13 @@
+I have had my Axim x51v for about three months.  I purchased it from Dell for $480 with aluminum hardcase, extra 1100mAh battery, and auto power cord.
+
+Strengths: Just about everything.  The processor is absolutely incredible.  I heard (unconfirmed) that the Intel 624 MHz PXA270 is faster than a 2GHz Pentium 3!  It sure seems like it.  This PDA blazes through movies, photos, games, word processing, and anything else I can throw at it.  
+The other definite high point for this PDA is the screen.  Once you see a VGA screen like this, you will be astounded at the difference it can make over a QVGA screen.  I have to get about 4 inches from the screen to even see the pixels.  The screen is crystal clear.  
+The battery life is phenomenal, even with the standard low capacity battery.  Playing a movie at full brightness and full volume will last about 2 hours, extended to about 4.5 hours on low brightness and headphones.  Turned off with a 1GB SD card drains the battery about 2% per day.  
+WiFi is amazing.  It connects consistently and is moderately easy to set up.  Once connected, it keeps the signal well and is, while not fast, reasonable for speed
+Just about everything on this PDA is almost perfect.
+
+Weaknesses: Not enough programs to start with, Windows Media Player 10 (Download TCPMP, it's way better)
+
+Problems: Don't use Odyssey Client, it makes the PDA start up really slow.  Also, in ActiveSync, On the PDA, select Menu, Add Server Source.  On all of the screens, put random characters in each field, and deselect any check boxes that tell it what to synchronize.  Then go to menu, schedule and select manual for both.  Then go to menu, options, and delete the entry that you just added (the one that has no boxes under it checked) and delete it.  It fixes a myriad of problems and makes the PDA run faster, and it still syncs automatically in the cradle.
+
+Conclusion: An awesome PDA that does just about everything.  Combine it with a BT keyboard and perhaps even a BT mouse, and you have an unbeatable combination of power and portability.  Everything works extremely well

@@ -1,0 +1,3 @@
+I use this little device with my Apple Powerbook to transfer photos taken with Canon digital cameras.
+
+Mac OS X recognizes the unit with no additional drivers required, and it works great.  Much more convenient than attaching the camera itself to the computer every time

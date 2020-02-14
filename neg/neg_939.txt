@@ -1,0 +1,6 @@
+Thinks my street is 50 feet before it actually is, therefore recalculates before the turn.
+If I go a different route, it continually tries to get me to make a "U" turn.
+Instead of shortest or fastest route, it may pick one that is very roundabout (you should see how it wants me to drive home from work).
+Maps need to be updated more often.  Street Atlas or Streets and Maps do a better job of being updated...I'd use them except I don't want to tie up a PC just to drive across town.
+It might work well for cross country, for me, it's an expensive toy that I have yet to develop trust in.
+

@@ -1,0 +1,5 @@
+On the good side, it was easy to set up, and worked reasonably well if the phone (tried both cordless and corded) was plugged directly into unit. However, I could not get it to work on other phones in the house when I used the jack to plug it into the wall per the instructions (so it would work like a land line on any phone in the house). I do not have a land line, so it may just need a land line to work since you are supposed to be able to switch back and forth. I even tried disconnecting the line outside the house but that didn't work either. 
+
+I experience sporatic dropped calls that were not present before installing this device. I contacted tech support and was sent a driver upgrade v 1.20 (not available from their website). This seemed to improve the dropped call situation a bit, but I still have more dropped calls than before. 
+
+The dealbreaker for me was after I found out you had to be logged in as an administrator for it to work. With an "always on" internet connection, I was not willing to expose myself to that security risk

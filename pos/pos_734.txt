@@ -1,0 +1,3 @@
+When we needed speaker systems for a batch of new workstations, price was the main consideration. The price for these units was well below budget.  Since our main application for them was for audio-enhanced CAT (Computer Assisted Training), High fidelity and volume were not issues.  They worked admirably for the purpose.
+
+The use of a USB port for the power supply was a clever twist. One of my aggravating support woes is keeping speaker power adapters matched up with corresponding speakers.  I had been buying unpowered (unamplified) units with no manual volume control.  The USB trick gives me just what I want

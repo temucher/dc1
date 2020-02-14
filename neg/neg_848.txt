@@ -1,0 +1,1 @@
+Worked fine for a couple of weeks and then just died. The problem was that it was not recognized by XP or Linux anymore.

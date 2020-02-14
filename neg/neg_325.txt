@@ -1,0 +1,3 @@
+Before you buy anything from Creative, google the words incompatible + legacy drivers + sounblaster + windows xp
+
+Huge compatibiltiy issues that will have Creative Tech help telling you to flash and update your system bios, chipsets, leaving an entire PCI slot between Sounblaster card and any other card, update drivers, yada, yada, etc. Read all of the issues from the aforementioned google, and ignore the Creative employee reviews (they are easy to spot). Creative ignores the fact that its products have huge conflicts with Windows operating systems

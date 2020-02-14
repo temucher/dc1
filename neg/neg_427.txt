@@ -1,0 +1,11 @@
+Though the concept is great, and the controls are straight forward and easy to use, the Belkin Reader falls short of usability. 
+While out on a location, I was away from a power source and thought the Belkin reader would be a great alternative to lugging a laptop around for file transfers. Trying to transfer 1000 pics off a 1GB CF card was 
+impossible. The reader would drain a fully charged ipod and still not finish the transfer. Though it claims firewire transfer speeds, I did some tests from home and found otherwise:
+
+100 compressed 2K pics transferred via:
+
+USB1 card reader to computer 1 min 20 sec.
+PCMCIA card reader in laptop 45 seconds.
+Belkin Media reader 6 min. 45 sec
+
+This was just a simple example. You can see how hundreds of files would take 30 minutes or more. For the price, I'd suggest buying a few more memory cards and not worry about the transfers until you get home, unless you're in no rush and can charge up the ipod regularly

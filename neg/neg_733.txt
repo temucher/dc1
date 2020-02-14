@@ -1,0 +1,17 @@
+1.  Buttons are too small, some of which are not spaced apart very well (very convenient for somebody waking up who can accidentally hit the wrong button).
+
+2.  Buttons are labeled, organized, and layed out confusingly.  For example, why not have an "alarm interface" which would include all of the alarm modes and features, and maybe a "radio interface" which would include all of the radio functions/settings.  You would really understand how confusing this is if you were to actually go through the process of operating this alarm clock.  But really, don't do it, make the smart choice.
+
+3.  Too many features/modes.  I understand some people prefer all of the different features, but I wanted a simple alarm clock with a buzzer/radio, and clock.  Of course all of these special modes are set as the default, so it is a pain to try and configure all of the settings to a simple mode.  So for those who want a simple alarm clock, definitely DO NOT GET THIS!!
+
+4.  The button handling event is flawed.  For example, sometimes when I push a button, it does not handle the event (the device doesn't think that you pressed the button).  So I would have to press the button again and check to see if the radio handled the button input correctly.
+
+5.  It is very slow when holding the button down and waiting for the alarm clock to increment up and down.
+
+6.  Radio reception is very poor.  I have another radio right next to it that gets much better reception than this clock.
+
+7.  LED is not very bright and hard to read from 10 feet and farther out.
+
+I have nothing against TIMEX (they make great watches).  This was written to protect anyone who who does not want to waste $30.
+
+ 

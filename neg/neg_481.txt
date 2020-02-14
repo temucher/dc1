@@ -1,0 +1,12 @@
+Maybe 2 1/2 stars. 
+Software and wireless setup for this card went fine, even great, and have continued to work for over 1 1/2 years now but . . .
+Here's the rub.
+Seems the housing on the card that receives the threads of the antenna was not properly attached to the board.
+The antenna would not work properly - 0-50% signal strength from the Access Point in the next room when it wasn't falling off the back of my machine! Futzed with the thing getting half-*** performance with it for toooo long until . . .
+Had to remove board from computer, use plier to remove antenna from the recept and VERRY carefully place the card in a vice and use vice-grip/clamp tool to forcefully slide the 1/2" housing in place onto the board.
+Did this once and it didn't seat far enough (antenna fell off) and a couple weeks later had to repeat the process.
+Apparently it needed to be pressed on even further and it actually snapped (securely ?) the 2nd time after using more force that you might imagine on such a delicate device.
+It has worked as advertised since then (about a year now).
+There ARE other reviewers who have suffered from "antenna drops off" too. Be warned.
+When one pays extra "for quality" they should expect better than this.
+It's time again to add to my network and will try a different board (for half the price).

@@ -1,0 +1,14 @@
+Yeah, they claim this thing works with MS Powerpoint. But what they do not tell you is that it only works with PART of Powerpoint. It only works in Slide Mode. It does NOT work in Presentation View mode. Of course, most of my presentations are run in Presentation View mode.
+
+SO the remote is useless. And they have no fix for it. They cannot even document that this is the case.
+
+I am going to look for something else. Maybe the Microsoft Remote.
+
+***UPDATE***
+
+It's true, this presenter has problems with PowerPoint's Presenter View because in that mode PgUp and PgDown keys are used to scroll the notes. However, here's a neat trick I discovered that makes it work again: 
+- Start the presentation in Presenter View 
+- Pres "B" on your keyboard to show a blank screen 
+- Click the mouse (anywhere in the blank screen) once to resume the presentation and then AGAIN to advance to the next slide 
+- Magically, from this point on the presenter buttons work flawlessly. 
+

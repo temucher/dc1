@@ -1,0 +1,22 @@
+Title: Intuos3 Tablet
+Publisher: Wacom
+Publish Date: Unknown
+ISBN/Model #:  PTZ631W
+Reviewer: Robert Saucier
+Rating: 5 stars
+
+In 1997, after buying a new top-of-the-line 450MHz Pentium II system, I splurged on a Wacom ArtZ II tablet.  Oh, my!  Pressure-sensitive, tilt-sensing, pointer control, assignable function pads; it was Heaven.
+
+After a couple of years, every time I tried to use it with my primary graphics application, my computer would spontaneously reboot -- a bit counter-productive.  I watched for new drivers and new versions of my application but, as technology marched on, my beloved tablet and graphics application continued their spats.
+
+Sadly, I disconnected the tablet and gently packed it away.  Lately, I've been feeling the pull once more, that urge to use a pen to do photo touch-ups instead of my mouse.  Miraculously, a Wacom Intuos3 6-inch by 11-inch tablet dropped, almost literally, into my lap.  Sleek, gun-metal gray, sexy -- with a comfort-grip pen (much like my coveted Pilot G2 pens) AND a mouse!  Even better, the Intuos3 comes bundled with 3 applications that show off its capabilities:  Adobe Elements 4.0, Corel Painter Essentials 3, and nik Color Efex 2.0 lE.  Heaven just got better!
+
+The Intuos3 has over 5000 lines per inch of resolution, over twice that of the Wacom Graphire product line, and, with its USB 2 connection, there's more than enough communication bandwidth, meaning better tablet to application response.  One hesitation I have when adding a new piece of hardware is in regard to what the driver will do to my system; will it introduce instability or get along with everyone else.  The Intuos3 driver has been rock-solid in the two weeks that the tablet has been living with me.  I've used all of my "usual" programs and have had no problems at all.  The tablet has also been peacefully co-existing with two external drives, a wireless desktop receiver, a card reader, a scanner, and a printer, all riding the same USB bus.
+
+The Intuos3 has 8 "chordable" buttons, 4 at each side of the tablet, to which keys, macros, or other actions may be assigned.  The default for each group are the usual ALT, CTRL/Command, and Shift, along with "space".  The placement of the buttons allows you to keep a grip on the tablet, holding one or more of the buttons, while tapping whatever key on the keyboard with your pen hand.  Being chordable, you can hold any or all of the buttons down for those tricky shortcuts like ALT-CTRL-S or To the side of each of the two button pads are touch strips which can be independently programmed as well.  The default setting is to scroll or depending on the context.  The ends of the strip, in keystroke mode, can be set to playback macros.  The pen, with its 1024-level pressure-sensitive stylus AND "eraser," also has a DuoSwitch.  The DuoSwitch's two positions may also be programmed.
+
+The pen action is smooth with the default nylon nib -- there are different types of nibs to simulate different types of tactile feedback.  With the ergonomic grip, the pen is extremely comfortable to hold.  The 5-button mouse, designed to be used by either "righties" or "lefties," is not as ergonomically correct but considering the versatility, this is more than acceptable.  As with every other clickable/pressable feature associated with the Intuos3, the mouse buttons are programmable with a ridiculous number of options, although I've yet to find the "fix photo,"  "illustrate article," or even the "design website" settings.
+
+I can see only two very minor changes that I would make to this fantastic product.  I would love to see the ability to add weight to the pen.  It is just a bit too light for my personal tastes and considering how configurable the tablet is already, this feature would be the feather on the cap to me.  The other change would be making the drawing surface transparent as it is on the Graphire (and was on the ArtZ II).  Sometimes, having the ability to trace an outline can save significant time.
+
+For the casual home user, I would recommend the Graphire product line -- this Intuos3 model's SRP of $369 may be a bit high where a $99 entry point on the Graphire is more affordable.  For the pro-consumer or professional, however, whether doing photo editing (my primary use) or illustration, the Intuos3 line is well worth the investment.  It's great to be in Heaven again ...

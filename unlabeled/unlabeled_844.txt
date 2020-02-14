@@ -1,0 +1,68 @@
+You may as well pitch the instructions because they're worthless (and the only reason I'm not giving a 5-star rating for the ADS Tech Video Xpress).  I was about ready to pitch the product as well, after losing two evenings trying to figure out how to get it to work.  Ultimately, I gave up on relying solely on the program it came with, and I instead opted to try it on my Windows Movie Maker.  Yahoo!  Perseverance paid off!  Once I switched to Movie Maker, this tool worked great!  
+
+To date, I've converted about a dozen videos of content to computer files that I was able to burn to DVDs.  I just leave my Xpress hooked up to the back of my television so I don't have to try to remember later how to hook it up again.  Doing that, I can connect my laptop to the Xpress and start the video converting process within 3-4 minutes.  My Movie Maker program takes over the entire process.  
+
+The ADS Tech Video Xpress has been especially useful for me because I teach a college telecourse and often show edited video clips to my students.  Before purchasing Xpress, I had crudely edited videos that I was reluctant to use; my videos had lots of amateur stop/start points.  Using Movie Maker with Xpress, I was able to download these videos to my laptop, then easily edit them so transitions between stop and start points became smooth and seamless.  
+
+Pretty cool.  I'm glad I took a chance on this product!
+
+Below are hook-up and program instructions I've written to myself for easy reference later.  Hopefully they'll be of more help to you than the instructions that come with this product:
+
+First, hook up the Video Xpress equipment as follows:
+1.  S-cable (buy one, since it doesn't come with the VideoXpress) goes from the back of your television to the VideoXpress.  
+2.  Use red/white/yellow cords running into the back of the VCR/DVD that is hooked up to your televion as follows:
+- all three plug into the "video out" column
+- all three plug into the VideoXpress tool at the other end.  
+3.  The USB plug for the VideoXpress tool plugs into the back of the computer.
+
+Next, open the Instant Video Xpress program and verify the settings are as follows:
+- "NTSC M" for the video standard setting
+- "640 x 480" and "60 FPS (VGA)" for video format
+- "DVD, VCR, TV" for video source
+- "Video composite" for video input
+
+Under the program advanced settings:
+- Low motion (TV, VCD, DVD)
+- CPU support: "SSE3"
+- Stereo system: "MTS"
+- Video decoder: "video standard: NTSC_M"
+
+Under properties within the program advanced settings:
+- Stream format:  Video format: "NTSC_M"
+- Frame rate: "59.940"
+- Color space/compression: "YUY2"
+- Outputs size: "640x480"
+
+Finally, CLOSE the Instant Video Xpress program.  (Windows Movie Maker can't access the video until this program is closed.  And yes, it's silly to have to open it, make those setting changes, then close it, but Video Xpress won't work correctly unless you follow those setting steps.)
+
+In case you need this information for Windows Movie Maker, the steps (in order) are as follows:
+Under "File," click on "capture video."
+
+Use the following settings:
+- audio device set at: "USB2.0 Analog Audio Device"
+- Video input source set at: "Composite"
+Under Configure Video Capture Device:
+- Video format: Video standard: "NTSC_M"
+		   Frame rate: "29.970"
+		   Color space/compression: "YUY2"
+		   Output size: "640x480"
+
+Under Camera settings:
+- Deinterlace method: "Low motion (TV, VCD, DVD)"
+- CPU support: "SSE3"
+- Stereosystem: "MTS"
+
+Under Video decoder: Video standard: "MTSC_M"
+Signal detected: "1"
+Lines detected: "525"
+Then...
+
+Give the file a name and indicate where to save it
+
+Set it for "best quality" for playback.
+
+Then "Start Capture."
+
+If the Video Xpress is hooked up and running correctly, you should see on your computer monitor the video image of whatever is showing on television, but you will NOT hear the sound.  When you finish capturing and play it back, THEN you'll hear the sound.
+
+I know, I know -- clear as mud.  But hey, it's better than the Xpress instructions!  :-

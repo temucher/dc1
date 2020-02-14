@@ -1,0 +1,1 @@
+Put the card in my W2000 PC, followed instructions.  Got to the part about loading the driver, the book says to go to the \drivers\WIN2000 driver on the CD included in the box- guess what, it's not on the disk included in the box.  Since I use a connection that needs this stupid card to work, now I have to find another PC and down load the driver

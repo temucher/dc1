@@ -1,0 +1,7 @@
+I have lots of analog video tapes from the 80's and onwards.  This device works very well in transferring them.  The video & audio are in perfect sync.
+
+Pro: Very good device, very easy to use and install. You need a very powerful processor to work it right. Also, as I discovered and mentioned in the manual.  You must connect this device into the primary USB port. I have a hub where I first connected but the light was not coming on and the computer did not recognize the device. I opened the computer and made sure that it is connected directly into the USB attached to the motherboard and it worked very well.  The customer service is responsive but they will not work with you on your specific computer issues.
+
+Cons: This device is processor intensive.  You MUST have the latest processor running at 3.XX Mhz or above and turn off all other ancillary programs while you are converting.  I encountered no problems when I followed the above guidelines.  The minimum requirments listed by the manufacture is probably absolute minimum.
+
+It is a very good product and very easy to use.  I love it. 

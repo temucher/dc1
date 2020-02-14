@@ -1,0 +1,19 @@
+This is a TV card I used to replace my aged Lifeview FlyVideo98FM card, so I could watch/record (Trinidad & Tobago) games from TV during the world cup in June '06.
+
+The TV quality is the best I ever seen from a TV card to date. Give that it is an ATI based card, this is really good stuff.
+
+Unfortunately, the software package has let me down. The card came Bundled with Cyberlink PowerCinema. In day to day usage of my computer, I like to have the FM Radio function on. With the old card and 3rd party FM Radio software, there was no issues at all... With this new card, I often can't even load a webpage without the music sticking and stuttering - this on a computer with 1GB RAM and 2 hard drives! 
+
+I definitely blame the software for this. If the sticking becomes too much then the Radio stops altogether. I'm forced to close and re-open Power Cinema to listen to Radio again.
+
+TV is at least stable while doing other stuff, but you can't shrink Powercinema down to a 320x240 window. also there is a 2 second lag between TV and computer watching the same TV station. This never occured with the old card. Intervideo's WinDVR used with this card had no such issue.
+
+It's a pity I don't have XP Media Center Edition (XP Pro I have) to compare XP's Media Center software with Cyberlink's.. Somehow I think Media Center will perform better. WinDVR works better too, barring that the software currently has no sound support for the card.
+
+PowerCinema works, but it's not very intuitive. The software is written for the novice user with NO advanced options at all. When recording, you do not know exactly what quality you're using outside of "good", "better" or "best". You can't even change the default recording folder!
+
+I am sure that this occurs with other brands of Theatre 550 Pro cards, not just MSI's version. 
+
+As a side note, the remote that comes with the card works well.
+
+In conclusion, It's a card worth getting if you can deal with PowerCinema's Issues, or find a better program to use with the card.

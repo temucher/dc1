@@ -1,0 +1,1 @@
+I used Lexar Media Multi Card REader in my P2120 Fujitsu laptop via a USB 2 PC-Card adapter.  It's truly plug-and-play without any need of drivers in Windows XP

@@ -1,0 +1,21 @@
+I have to admit, I'm a GPS junkie.  I've had a variety of GPS units over the past decade and currently own 3 - the c340 being my latest acquisition for use solely when driving.
+
+I am greatly impressed with this unit.  It was fast to get going right out of the box and after the initial satellite acquisition and almanac download (for those who are interested, when a GPS unit is turned off and moved a significant distance, say 300+ miles, from where it last thought it was, it needs to recalibrate itself by downloading the current almanac of satellite positions from the GPS satellites.  This can take a few minutes.) In any case, after the initial automatic recalibration, the unit acquired satellites quickly whenever I turned it on.
+
+The user interface is very easy to use.  I've used Hertz NeverLost systems for years and have always thought they had a good interface.  I think Garmin's is better.
+
+One highly useful feature is the ability not just to search for Points of Interest (POI), but to have the unit search for those points of interest that are along the route you are currently navigating.  This allows you to identify, say, hotels along your route while you are driving and then, using the telephone info provided by the unit, to call the hotels up and see if you can negotiate a lower rate before you arrive - "let your fingers do the walking..."
+
+If you don't tell the unit where to look, though, it can take quite a while to search for a Point of Interest.  I didn't know which city to specify and I did a search for "Eagle Rock Rec" (I was too lazy to spell out "Eagle Rock Recreation Center" which turned out to be about 175 miles away) and the unit chugged away for several minutes but eventually came back with the right entry for me to navigate to.  I later realized that even though I didn't know the exact city the destination was in, I did know a city that was near the desired destination.  When I specified that information, the c340 took only a few seconds to find the right location.
+
+The advanced user can also create your own POI lists complete with custom icons and load those into the c340.  I have done this for all In-N-Out Burger and Krispy Kreme locations.  The advantage to having your own custom POIs even though these places are in the built-in POI list is that the custom POIs are visible on the c340 map screen at certain zoom levels.  If you are a Geocacher, you can do the same with geocaches, but you'll still need your handheld unit to find the cache.
+
+The newer (and more expensive) c5xx units evidently have the Sirf circuitry in them which is more sensitive, allowing signal acquisition indoors, but I found the sensitivity of the c340 to be fine - especially since I have limited my indoor driving lately :-). I haven't tried the c340 under a thick tree canopy with cloud cover yet, so I might change my tune.  The comparable c5xx unit at this price point, the c530, lacks the c340's text-to-speech capabilities (this prevents the c530 from announcing street names).
+
+Since I already have a Garmin handheld GPS unit as well as Garmin's MapSource Topo mapping software, I used the unlock code that came with the c340 to unlock my MapSource maps for the unit. I then loaded the topo maps for the entire Western US onto an SD card (between 300-500 MB) and plugged it into the c340 to see what would happen.  It worked!  So now I have the c340's excellent built-in maps and POIs for on-road trips *and* Topo Maps available to me for off-road adventures.
+
+One thing you should do if you are in the US is enable the unit's WAAS capability (the default is for WAAS to be disabled).  Enabling this capability increases the accuracy of the unit when certain satellites are in range.
+
+Also, since this unit has a touch-screen, fingerprints on the screen are inevitable. You should *never* use an ammonia-based product (like most window cleaners) to clean electronic screens - it will cause them to fog.  Instead, use those little antiseptic alcohol towelettes.  They are cheap and if you don't use them for cleaning your touch-screen they might come in handy for first-aid.
+
+I give this unit a highly positive rating.  I like it

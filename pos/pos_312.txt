@@ -1,0 +1,1 @@
+I repartitioned the disk so I have a Macintosh partition and a Windows partition.  I back up both my Mac and my PC to this disk.  It is fast and easy to use

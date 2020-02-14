@@ -1,0 +1,7 @@
+This is a corded mouse; fits comfortably in your hand.  Moves smoothly across table surface; works well on a mousepad as well if you need wrist support.
+
+Worked out of the box (except for the application button) for the different buttons on the mouse.  The Internet buttons allow for a page forward/ back with your thumb.  There are also line up/down buttonw above and below the scroll wheel that allow for more control in scrolling.
+
+The scroll wheel feel good, better than some other mice I have used.
+
+I opted to use the native Windows XP mouse driver, so the application button does not work, but the Windows taskbar is not much of a hardship :-); and I prefer not to clutter up my system with another set of marginal utility software

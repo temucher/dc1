@@ -1,0 +1,1 @@
+I like the size. The speed on reading and writing is usually just fine, but when writing a group of small files it takes ages

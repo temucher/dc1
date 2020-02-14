@@ -1,0 +1,7 @@
+I decided to upgrade my laptop with the wpc54gs from the wpc54g.  I did this because the "g" card would randomly disconnect when the WEP or WPA security was activated.  Living in a home near about 6 other networks I really wanted the router and wireless network secured.  So, I purchased this card to see if it would fix my problem.  I can happily say it solved the random disconnect with WPA security turned on.  The range is just fine and all my network connections seem solid.  Have not had a disconnect yet, over the last 5 hours.
+
+The reason I took away one star is the fact on the Wireless Network Monitor V2.1 there seems to be a flaw.  When I connect to the network and internet the monitor says it is hooked to the network but unable to find the internet.  Obvious by my submission of this review, the internet can be found and used.
+
+All in all a good product that functions just fine in my A45-S121 Toshiba laptop.
+
+Phil (Mesa, AZ

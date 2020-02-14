@@ -1,0 +1,13 @@
+I bought my player Sep 2006 and the other region-free code did not work.  It is actually a DVD-224M (see manual) though it says DVD-224 on the player.  Here is how to do it:
+
+If you have the DVD-224M model (says DVD-224 on the box, DVD-224M on the manual...), the hack is: 
+
+Make sure you have no DVD in the tray. 
+On the remote control: 
+1) Press "TITLE" 
+2) Press "1" and then "9" 
+On the TV a large box with a small number will appear. 
+The number indicates for which DVD region the machine has been set, for example "2" for Germany or "0" for no region code. 
+3) Press the up arrow or down arrow to raise or lower the number. 
+4) Press "ENTER" 
+Done. 

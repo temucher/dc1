@@ -1,0 +1,3 @@
+The card worked really well except for one little thing. There is no way to enbale super G mode (you need it to connect at 108mbps).  Without the most I could connect at was 54mbps.  The quick install guide and the manual said it's available, but it wasn't.  Tech support was able to reproduce my problem, and tried many, many things. Even though they were very helpful, they coudln't fix it.
+
+My guess is that it's going to take a firmware upgrade to enable Super G.  If you can wait for that, then you will be happy.  I returned mine, and bout a Linksys WPC54GX

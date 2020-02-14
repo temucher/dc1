@@ -1,0 +1,5 @@
+This camera had some nice features like the ability to write to a network storage device, smart motion detection, etc.  The recorded videos have their own codec so you can use it or d-vix.  Some videos are unreadable and if you dig deep enough, d-link has a utility to make them readable.
+
+I upgraded the latest firmware 1.06, tried using the ability to write to a storage device and found it very hard to manage.  Motion triggering is touchy but works once you set it up.  The wireless caused 90% of my communication problems.  Ran a wire and things were fine.  Clock could not keep time for anything.  Set USA EDT and it was fine and shortly after it feel back one hour.  D-Link knows of this and the only solution was to use Atlantic time.  It has all the right features and image is great but I have to vote thumbs down on this unit.
+
+One more thing, D-Link hard codes an IP address so if you try and factory reset remotely or of you happen to be using a different network addressing scheme, you're done.  Why for the life of me they don't use DHCP by default is beyond me

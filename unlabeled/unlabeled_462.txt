@@ -1,0 +1,35 @@
+I've had the Logitech G15 for several months now and it has many features which I use regularly. The paint doesn't seem to wear off even if I rub or scratch at the keys. Installation was somewhat time consuming because the keyboard has drivers for each part rather than one driver for the entire thing. 
+
+Pros-
+ Lights look great
+ Screen is easily readable
+ Third party LCD apps are highly customizable
+ I can use chat on Trillian and access my buddy list with the screen. (Keystrokes go directly to the screen when you hit the button for reply, then I can send it by hitting enter)
+ I can view a winamp visualization and song title, view my playlist, change various volume controls and use standard playback functions
+ I can view network activity
+ Macros are easy to program
+ The key feel is awesome compared to my old keyboard. They have a nice solid click to them, but the pressure necessary and the keystroke length are both small. 
+  
+
+Cons-
+ Included LCD apps are terrible and useless to me
+ Long setup
+ More G-Keys than you'll ever use
+ Minimal game support
+ LCD apps take up valuable RAM (although not much)
+ Keyboard profiler takes up RAM and must run to maintain full functionality
+ Invisible lettering when the lights are off
+ Light brightness levels are pointless. The options are: Off-can't see it! 1-Visable but dim. 2-Slightly more visible but still dim.
+ USB ports are USB 1.1
+ "Gaming mode switch"... I never hit the windows key while gaming even though I usually use ctrl and alt frequently. I think you'd really have to be fumbling with the keys to need that feature
+ The wrist rest is flimsy
+ The default LCD setting is to cycle through the APPS (which I hate) and if I don't shut down properly, the LCD profiler resets all its settings to default.
+ The included POP3 checker doesn't have SSL, you need to get some ridiculous add on which sucks up more resources. The mail checker APP+ the SSL thing ends up being a little too resource heavy for me to appreciate. In other words, its a big pain to get Gmail working with the included checker.
+
+If you play a lot of World of Warcraft or really like to tweak your settings and streamline your interface, you might enjoy having all the macros. The screen is more useful for non-gaming purposes, so don't buy it with intent to improve your HL2 experience (since the LCD doesn't display anything for HL2 anyway). There are many 3rd party LCD apps out there and you can probably find one that will make you love the screen. Be warned, unless you use the 3rd party apps, you probably will be disappointed with the LCD's functionality. 
+
+Bottom line- Recently the priced spiked up for these keyboards, I wouldn't pay the new higher price for one. This isn't the kind of item I would say that I can't live without. Its mainly a luxury, and unless you're a serious computer geek (like myself), you probably won't even know how to utilize the more advanced features.
+The hardware is solid and powerful if you know how to use it. The included software cd ended up in my trash can.
+
+
+

@@ -1,0 +1,3 @@
+At the moment I am in the middle of a 3-day ordeal sorting out Outlook 2002, which comes with the ipaq.  Outlook 2002 has many many many known bugs (which only now I find out) and I can't for the life of me figure out why HP would ship it with their hardware.  DO NOT INSTALL OUTLOOK 2002 on your machine.
+
+The ipaq itself may be OK, but if this is a foreshadowing of the fun to come..

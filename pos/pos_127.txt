@@ -1,0 +1,2 @@
+Worked perfectly.
+   Battery does not run low after a few hours off the base

@@ -1,0 +1,18 @@
+I bought the Zboard and was sorely disappointed in it's playbility, efficiency and value for several reasons:
+
+-The left buttons, which are the feature of the keyboard, are based on a mirroring system.  You experience keyboard lag at times because the board has to interpret the button presses based on the zboard program, then the game.  I personally had to press some buttons twice, or even three times in order for that command to register.
+
+-The left buttons cannot be configured to your game, you must configure the game to it.  The templates for different games cannot be modified, all it does is change the button configuration.  There are no patches for configuring the keys to how you want it.
+
+-According to the website, the top buttons for media can only be used with windows media player.  If you use winamp, itunes, or anything else it wont work.  
+
+-You cannot program any macros into any of the buttons.  If you are looking for a keyboard that can autofire or program keystrokes this isn't it.  
+
+- The numpad is configured differently than a normal keyboard.  This can actually be a good thing if you like having a compacted pad.  I found it frustrating since I put attack commands on the numbers, and would press the wrong one sometimes because of the layout.
+
+I experienced a lot of frustration with this controller while pvping in world of warcraft.  The top buttons on the left side of the board give you access to a bigger arsenal of spells and abilities when programmed right.  The problem is remembering how zboard configured the button layout.  I would constantly get wailed on because a button wasn't where I originally remembered it to be.  This forced me to sit in the key bindings menu to configure the buttons to where I could remember.  After completely revamping my bindings, I gave up, restored my defaults, and used a regular keyboard instead.
+
+There is nothing gaming enhancing about this keyboard beyond having an accessory on the left side that looks cool because the buttons are grey and red and contoured to your hand.  
+
+To achieve the same effect as the zboard, turn your current keyboard slightly to the right and enjoy.
+

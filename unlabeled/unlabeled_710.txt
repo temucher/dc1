@@ -1,0 +1,1 @@
+I use this to read the Trans-Flash card from my mobile phone (with SD card adapter).  It works as expected, but seems to have higher throughput to/from the flash card than my desktop 12-in-1 card reader.  I bought it on someone else's recommendation to begin with.  Very satisfied

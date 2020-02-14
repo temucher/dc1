@@ -1,0 +1,16 @@
+I had a very poor experience with the Microsoft Media Center infrared keyboard and I wanted to replace it with a bluetooth solution that would - I thought - get rid of all connection problems.
+
+I was wrong. The hardware is very nice but the software keeps on dropping connections. 
+
+AS usual, I was very careful: I always read manuals and properly install the software before using any product - I don't want to fail the installation for a very simple reason: the package doesn't come cheap... I am a software developer - I have half a dozen computers at home - and I did everything as instructed. I found the software to be very average in terms of usability (why do they try to do all these fancy effects??), but that's not very important when it works fine. 
+
+Unfortunately, after just a couple of days, the keyboard stopped working. I finally managed to get it back by removing the batteries and rebooting the computer (both step were required - the on/off switch didn't work - same thing for the connect button which is totally ineffective). Now, the mouse keeps on dropping connections. After a couple of hours of inactivity, the mouse simply stops responding.
+
+This is simply unacceptable. Logitech knows that this product doesn't work and keeps on charging customers for something that is simply not usable because it wasn't tested properly.
+
+It is a very frustrating experience because the hardware is great. Don't buy this product, you could be very disappointed.
+
+Note that I have seen another installation done by professional Windows system administrators that had the exact same problems.
+
+Now don't get me wrong: the hardware is very nice. I would highly recommend the Logitech VX Revolution Cordless Laser Mouse for Notebooks 
+which is great and had none of the issues I have mentioned there

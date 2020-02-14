@@ -1,0 +1,9 @@
+Used this unit for a few weeks and returned.
+
+Annoyances:
+
+Sofware: With ADF scanning, you have to enter scan parameters (paper size etc) again for every scan and it does not have an option to let you to continue scanning more pages then ADF can hold. You will have to use "add to file" function and select all scan parameters again. There is no option to scan double-sided pages as well with using 2 pass scanning. So 3rd party software is definitively needed to get a real value out of ADF scanning.
+
+Color Scanning: While B/W scans are fast, color scanning speed is very poor to me. Scanning stack of color pages could take ages. Slow color scanning speed was observed in both USB and network modes. 
+
+FAX: Number of rings before FAX answers is limited to 4 and I found no way to increase that. No good for SOHO

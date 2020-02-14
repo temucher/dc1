@@ -1,0 +1,7 @@
+Short answer: The microphone volume on this is set too low relative to the speaker volume, and cannot be adjusted independently--either through the device or at the O/S level.
+
+I spoke with tech support, and they said this was to keep the echo-cancellation software from having issues.
+
+So as a speakerphone, this device is useless.
+
+I'd have given it one star, but the rest of the device is actually very well designed, easy to setup, and so on.

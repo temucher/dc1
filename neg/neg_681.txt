@@ -1,0 +1,5 @@
+I recently bought this keyboard to go along with a fancy ergonomic laptop stand.  The stand puts the laptop screen at a reasonable height for use on a desktop -- that works great.  The keyboard, however, is fairly awful, and I'm returning it.
+
+I realize I shouldn't expect much for $20, but the keyboard has an exceptionally soft, mushy feeling.  The "comfort type" slanted keys didn't get in my way, but they didn't help anything, either.  The worst part about this keyboard, however, was that it uses a non-standard layout.  Look closely at the right side -- the "enter" key is oversized, and the |\ key is moved below to accomodate it, with the consequence that the right shift key is miniaturized.
+
+This, for a shell user or programmer, is awful.  When you need to pipe something, or escape the next character, you really don't mean to be hitting return instead.  And with the small right shift key, even typing properly with balanced use of the keyboard is difficult.  This small design decision makes this keyboard terrible for heavy computer users like me

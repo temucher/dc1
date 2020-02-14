@@ -1,0 +1,7 @@
+Before you buy this drive, be sure to Google "Cypress AT2LP RC42" and "western digital".
+
+Until yesterday, I recommended this drive to everyone. Then my drive failed, prompting me for new hardware and to install a driver for Cypress AT2LP RC42. It appears that there is a chip in the drive housing manufactured by Cypress that is failing in drives left and right. (Class action suit anyone?)
+
+The Western Digital support staff is no help. Act like they have never heard of this error. Offer no option to just switch out the housing. Will replace drive- but you lose all the data. There are $30 replacement housings available - but you void your warranty. 
+
+Bottom line - if you buy this drive, be prepared for it to fail. Keep everything backed up, because there will come a day that this drive will fail

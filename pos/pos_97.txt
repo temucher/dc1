@@ -1,0 +1,20 @@
+Just some specs missing from amazon's description:
+
+USB 2.0 CompactFlash Reader
+
+Small and travels with ease
+LED status indicator indicates when files are being transferred 
+Data transfer speeds up to 480Mb/s 
+Backward compatible with USB 1.1 
+Ships with removable USB 2.0 cable 
+
+Features 
+
+Designed for large data transfers, like images, music and video 
+Data transfer 5 to 6 times faster than using USB 1.1 
+Portable - weighs only 1.5 ounces 
+Protective cover case keeps reader pins away from external hazards 
+Compatible with Windows 2000/ME/XP and Mac OS X and 9.1 
+No drivers required with most current operating systems
+
+2-year Limited Warranty 

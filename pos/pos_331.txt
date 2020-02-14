@@ -1,0 +1,8 @@
+I'm using this AP, along with a Netgear 802.11g PC Card to test streaming live/recorded TV to other parts of my house.  Seems like a capable product even if I didn't use the 108Mbps feature.
+
+However, be sure to update the firmware or the AP might not work correctly.  When I first received it, configuration was easy enough but it had trouble working with my Netgear and HP Centrino notebook.  Both notebooks will get a signal and even connect be failed to obtain an IP address from my network's DNS server.  A firmware upgrade solved the problem and the AP now streams TV realibly from my living room to the kitchen.
+
+I noticed that there is are hordes of wireless APs around my house, I guess most neighbours are using some form of 802.11 wireless as well.  However, this D-Link AP is able to function correctly abeit all the other APs around (2 using the same channel as mine I've found).
+
+
+Overall, recommended if you want a good AP.  Just be sure to update the firmware

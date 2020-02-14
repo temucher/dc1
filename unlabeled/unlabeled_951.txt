@@ -1,0 +1,3 @@
+The minor problem is that the user manual claims the user ID is "admin". Well, it is not. Frustration and wasted time will occur until you somehow find out that the user ID should be left blank to log in.
+
+The major problem is that the unit only works for twelve to 36 hours before it has be rebooted. After twelve to 36 hours it looses the connection to the wireless network. Once you unplug and plug back the power cord, it will work fine for another twelve to 36 hours. I am used to rebooting Windows every time it hangs, but I don't accept having a Wireless Access Point that hangs (I am not sure how Microsoft was able to convince me it is OK for an OS to hang). This box is going back. I already bought a Buffalo that works fine

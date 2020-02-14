@@ -1,0 +1,5 @@
+Pluged it in and good to go, I skipped the installation disk in fear of what nonsense is loaded on that... went to the admin screen, a little overwhelmed with ALL the features, it could be more stremlined, for a novice user they would be entirely lost, perhaps that is whats on the install disk (easier setup), but my experience self, got through just fine, enabled the maximum security features (more so then the easy setup button, which itself is good but does not suffice my network requirments).
+
+Heard lots of issues, was weary, but out of the box works great, no issues, no dropped connections. And for that reason, since it works I do NOT intend to flash the firmware to the latest, as the saying goes if it isnt boke don't fix it.
+
+BTW home network is a mix of print server, wired PC, wireless Apple powerbook, everything running smoothly

@@ -1,0 +1,15 @@
+From appearances and description, this appears to be identical to my SDDR-92 (no A15) except for the shape of the button.
+
+This SanDisk is an excellent unit - compact and reasonably slim, with a detachable USB cord.  It is perfect for carrying in a pocket of your laptop case (unlike my Dazzle which is fine for a desk top, but awkwardly shaped for compact storage).
+
+The unit is reliable and fast, and, unlike the 8-in-1 or 12-in-1 units which use up four hard-drive letters, this unit only uses one hard-drive letter.  It supports reading, writing, deleting, etc., and works with either USB 2.0 or USB 1.1.
+
+If you do not care about the button software, this unit installs plug-n-play, without needing a driver CD (at least on Win 2000 and XP).  It simply appears as a removable hard-drive letter in Explorer.
+
+I did not install the button software because I am not a fan having extra transfer mechanisms and photo organizers on my computer.  I would rather be in full, manual control of how and when things happen, and where files are put.
+
+I think that this is a 5-star unit, but I downgrade my own unit to 4 1/2 stars because of its overzealous packaging and arrogant installation instructions.  In both the instructions, and on a sticky label on the unit (which I still have not been able to fully remove), it proclaims that you MUST install the button software before connecting the unit.  I ignored that warning, and the unit worked fine without any installation needed.
+
+One of the important requirements in a card reader is portability.  Since not everyone takes kindly to your installing software on their computer, the card must be able to work just by plugging it into the USB port.  The SanDisk SDDR-92 meets this requirement, although it proclaims not to.
+
+This is a good choice for a CompactFlash Reader/Writer.

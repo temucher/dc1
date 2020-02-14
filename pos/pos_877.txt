@@ -1,0 +1,28 @@
+I just recently move from dial-up to DSL. Going DSL was not enough; I did not want to have cables running though the house so I started looking into going wireless. To make a long story short, after a little investigation I decided to make the leap into wireless technology. I purchased the WAP55AG router and the adapter cards, WMP55AG and WPC55AG.
+
+Once the WAP55AG router was installed and set up, the installation of the WMP55AG PCI Adapter on each of the desktops were simple.
+
+I had no difficulty setting up the hardware and software and with a few hours, I was on the net through the router. One desktop is running XP professional and the other desktops are running XP Home edition. 
+
+The LinkSys Web site has all the documentation you need for installation and setup. There is a "Knowledge Base" page that covers a lot of the products and answers to a lot of questions about various products and configurations; I found it to be very helpful.
+
+Pulled from LinkSys Web Site:
+----------------------------------------
+The Linksys Dual-Band Wireless A+G PCI Adapter installs in most desktops and lets you put your computer almost anywhere in the building, without the cost and hassle of running network cables. Now you don't have to drill holes in your walls and climb through the attic or cellar to get connected to the network. Once you're connected, you can keep in touch with your e-mail; access the Internet, use instant messaging to chat with friends, and share files and other resources such as printers and network storage with other computers on the network. 
+
+The Dual-Band Wireless A+G PCI Adapter connects you with Wireless-A (802.11a) and Wireless-G (draft 802.11g) networks at an incredible 54Mbps! And for added versatility, it can also interoperate with all the 11Mbps Wireless-B (802.11b) products found in homes, businesses, and public wireless hotspots around the country. And whichever mode you choose, your wireless communications are protected by up to 152-bit encryption, so your data stays secure. 
+
+Features of the product:
+--------------------------------
+One adapter connects to either 2.4 GHz (802.11b or draft 802.11g) or 5 GHz (802.11a) networks
+Advanced security features with up to 152-Bit WEP encryption
+Detailed monitoring and performance utility
+IEEE 802.11a, 802.11b and draft 802.11g compliant
+ 
+System Requirements (Minimum):
+---------------------------------------------
+200MHz of Faster Processor
+64MB RAM
+Available PCI Slot
+CD-ROM Drive
+Windows 98SE, Me, 2000 or X

@@ -1,0 +1,11 @@
+Mine actually works and I still hate it.
+
+I haven't had all the problems others are complaining about.
+---I run Windows XP SP2 had no problems compatability.
+---Signal strength is fine.
+---I had no problem installing on one computer....except that I installed the card before running the CD, just like every other card or peripheral I have ever installed.  I've never seen one that didn't allow you to install hardware before drivers.  So I had to take it out, run CD and put back in.  Just a minor annoyance that cost 10 minutes.  But c'mon Linksys why the special order?  Most people that are willing to open the computer and install a card don't need instructions to know "take card and put in slot" and "insert disc", so they don't look at them.  At least they put a warning sticker about the installation order on the disk cover for us non-direction readers.  Annoying but no stars deducted for this.
+---Told Mom to buy one (this was before I had installed mine). Installed easy and it worked fine at first.  Now it connects to router but can't find internet (yes other computers connect to net through this router just fine).  Would think maybe firewall setting issue??? but I used to work then just stopped.  C'mon Linksys if your connected to the router how hard it is to find the internet.  Deduct 1 star.
+---Stupid software only supports hexidecimal passwords.  Of course my router also support standard alphabet and my password had some G-Z letters, so I had go change network password and update all devices attached to the network.  C'mon Linksys how hard it is to support A-Z. Annoying but no stars deducted.
+---SLOW SLOW SLOW SLOW TO CONNECT!!!!  On my other computers you hit connect and are online in 5-10 seconds.  This thing takes 30 seconds to a minute. Impatient, yes.  But still unacceptable.  Deduct 1 star.
+---Can't hibernate or sleep computer or card disables.  Only way to get it turned on again is to reboot.  So it's either leave computer on all day long, or reboot everytime I want go online.  Deduct 1 stars.
+--Overall bad product.  Deduct one star

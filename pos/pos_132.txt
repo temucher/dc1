@@ -1,0 +1,15 @@
+The Sony SS-MF650H are a low-cost solution to good directional sound for a very small room.
+
+Though I have not had the opportunity to test the ultra-high (up to 50kHz) frequency, the highs on these speakers sound very well, maybe only slightly boxy - note that the speakers are rather directional so the sound does not spread.
+
+The sound is very flat. The lack of depth makes it feel as if the sound is coming from a flat wall or a small box rather than from a space, especially if you stand further away (over 5 ft.) from the speakers. It seems that the speakers have a much lower than published sensitivity level. However, don't get discouraged because with most speakers/headphones it may be that the speakers need some time to burn in (loosen the diaphragm) to get a bit more "sustain" to their output rather than seem to have a very sharp cutoff.
+
+The bass is very punchy, and not deep. I would definitely recommend a subwoofer for these speakers, as their highs are very good, and midranges are nice but maybe a bit flat. The subwoofer will party compensate for the problem, and you could even completely cut off the bottom frequency band and suffer little ill effect (use the LFE on your receiver for the sub-woofer... don't worry, low frequency bass is not perceived by humans as directional so your surround or stereo won't suffer). In other words, you will need a lot of tweaking and additions to make these sound nicer than their out-of-the box quality.
+
+Ignore the 50kHz rating for ultra-high-frequency sound as a positive feature, as no receiver you will buy at the budget for these speakers will be rated for that output. Most are rated for 20 Hz - 20kHz, at a reasonable RMS.
+
+You get what you pay for... for the price tag on them, the SSMF650H are good. They perform reasonably well on highs and mids (but in no means studio reference sound), and are crisp and punchy on the bass. They do however seem to lack depth and have low sensitivity - especially so on the bass... the further you move away from them (and especially if you stand up above them), the sound quality suffers.
+
+I would recommend Wharfedale Diamond 8.4 speakers as a better choice if you're willing to expand your budget a bit. Polk is also not a bad choice for cheap sound.
+
+I also demo-ed the ~$100 per pair CAT SDAT LEB-404 (I think I saw them on overstock for $80 with free shipping). They are a bit shady, but excellent for the price - seems that the 20 Hz bass rating on them is actually somewhat accurate. If you're looking for deep and bass-heavy sound without a sub-woofer, and are willing to take a hit on mids and highs a bit this is your "budget solution" instead of the SS-MF650H. I was pleasantly surprised. They also have poor sensitivity though, so if you have a big room shop around for something better.

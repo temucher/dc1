@@ -1,0 +1,1 @@
+Wiring broke at interface box - poor design

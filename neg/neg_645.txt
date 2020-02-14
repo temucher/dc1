@@ -1,0 +1,7 @@
+After a bit of sweat I've managed to get the printer working fine from both my XP and MAC OS Tiger computers  ...... until I unplug the direct ethernet cable to the router that is needed for set-up.  Then nothing happens i.e. no wireless printing.
+
+I suspect it's an IP addressing issue having read a helpful article here (take note D-link - Amazon is becoming a better support site than your own!).  Changing the IP address messes up my internet connection during install; the MAC works quite hard to re-establish the internet connection & perhaps this breaks the connection to the printer? I dunno, but it's giving me a headache.
+
+Documentation & troublshooting help are very, very weak & time will tell if D-link on-line support are any better (22 hours & no response from them yet....)
+
+I'm sure network wizards will have this little beasty up & running in no time, but for normal people it's, well, a bit of a pain

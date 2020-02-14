@@ -1,0 +1,13 @@
+I really wanted to like the TomTom Navigator 5.  
+
+The GPS itself is tiny, well-designed, and very sensitive.  It worked fine from down in a underdash cupholder or in the glove compartment.
+
+The interface is attractive and easy to navigate.  The voice prompts are clear and loud.
+
+The installation on a Mac was problematic.  Search on TomTom OSX for details, but suffice it to say that the installer included on the CDs simply doesn't work and a new one must be downloaded.  Once past that, it ran fine on my Treo 700p.
+
+Unfortunately there is one fatal flaw - the map database.  In using the Navigator in both California and North Carolina, the maps regularly had misnamed streets, exits referred to by numbers where there were none, and directions that lacked critical information like heading (i.e. take the 101 instead of take 101N when approaching a complex interchange).  
+
+Worse, the company seems to be actively hostile to updating these maps.  If you go to the TomTom site, you can purchase maps on a city-by-city basis.  Are they newer than the ones that came with your unit?  Who knows?  TomTom lists no version info and seems to expect you to buy and cross your fingers.
+
+There were just too many errors that I saw while traveling in areas that I'm familiar with to trust the TomTom maps for any unfamiliar territory.  Everything else is great, but the whole point of a GPS is accurate navigation.  And sadly, that's where the TomTom Navigator fails

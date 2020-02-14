@@ -1,0 +1,25 @@
+For those of you who bought MiniDisc recorders to move away from analog tape recording, this product is wonderful.  Especially good for recording lectures, voice lessons, etc.  It works quite well with the built-in mono mike, or you could use an external one.
+
+One of the few players that lets you record from a line input or an external mike -- you toggle which setting it is in the settings section.
+
+I record my radio shows by plugging in the line-out from the station's tape deck to my iRiver.
+
+For those who recorded live music with their MiniDiscs, it's a little trickier.  You have to set the record input before -- you can't change it on the fly.
+
+I've recorded live DJ shows with the built-in and AGC on.  Of course, the booming bass distorts horribly, but overall an easy record of the show.  Very easy to keep in a pocket rather than to be obviously recording a show.
+
+I've also tried external mikes with the record input turned down very low with very good results.  A bit of trial and error which I'm still refining with later iRiver products.
+
+The single AA batter lasts a good long time.  Summer School involves 2, 2-hour classes, and I can record several days of them before battery is low.  If the battery runs out during recording, fear not, the file is saved!
+
+The negatives are the requirement to go through the special iRiver music program, but there are now firmware updates that will change your iRiver into the typical USB external drag-and-drop drive.
+
+Files are recorded in a .REC file which one then converts to a .mp3 file after transfer to your computer.  I don't know how different this format is because it takes up exactly the same amout of space as the .mp3 file.  But you can't trasnfer .mp3 files off your iRiver, even if you made them yourself, so don't think you can use this to transfer .mp3 files from one computer to another.
+
+Also, the molding where the line-in input is sometimes gets in the way of certain plugs such as some RCA to 1/8" adaptors, so make sure you pick one that alows it to fit in securely all the way.
+
+I've had mine for just over a year now and use it every day, whether just playing mp3s or recording classes.  I'm only just starting to have some trouble with the on/off/play/pause button.  After so many presses, it's starting to wear out.  But it's still working reliably.  I just have to press a little more precisely and pay more attention.
+
+I have the 1G model (iFP-799) which is great.  I was able to record a 12-hour radio show marathon I produced with it.  Previous marathons required a stack of cassette tapes or minidiscs.
+
+I'm quite happy with iRiver and plan on buying from them in the future

@@ -1,0 +1,73 @@
+I have to say that after years and years of greedily drooling at the thought of getting a 9x12 Intuos tablet, I have finally purchased the 9x12 Intuos 3. And it's huge. Not HUGE like thick or heavy, just spacious.  And so far I can't put it down.  Really.  I haven't cleared enough space on the desk.  But then why would I want to?  It doesn't get hot, it's the right size for a lap desk, and I can use it for most of what I do from 9 to 5. Except typing. Anyway here's my take on it:
+
+-----------------------
+
+SIZE
+
+I'm moving up from the 4x5 Intuos 2 which will now live in my laptop bag.  You may be just fine with a smaller tablet, and travel concerns may make this a little unwieldy.  The full tablet is 3 additional inches on the left right and bottom sides around the 9x12" area, so it's a grand total of 17x13" in the bag.  No big deal for anyone accustomed to carrying an art portfolio around.  Stack two Intuos2/Graphire 4x5 tablets flat on top of each other, and that's about how thick it is.  (If you're considering buying a 9x12 you probably have a few of these lying around)
+
+TABLET & SCREEN AREA
+
+if you don't like the overabundance of space, you can always limit the tablet area in the Wacom control panel to ANY dimensions up to 9x12, mapped to any area of the pad.  I feel sometimes that I am moving my arm way too far all over this space for most of my work, so it's good to know I can reduce the physical tablet area controlling the entire screen to a 3x5 box in the corner.  This particular feature is very good for "tracing" a photo or small object placed on the tablet and still drawing to the entire screen.
+
+Likewise you can limit the amount of screen area the whole tablet can control.  For VERY VERY precise control over a small screen area this is the best option.  An alternative to zooming the image to work details.  Also useful for avoiding accidental menu-clicks, and prevents the pointer from migrating into toolboxes or clicking scrollbars and other windows.
+
+All this space does provide a fantastic level of control.  It's just different.  You realize how little you move the mouse most of the time to work on a computer when you start using your entire arm to work.  Usually it's all about the flick of the wrist.
+
+QUICKPOINT "VIRTUAL-TABLETS"
+
+An added bonus I discovered (not on the smaller tablets to my knowledge) is the "Quickpoint" dual tablet feature. Two "virtual" tablets control the same screen.  The lower left or right corner becomes a tiny 2x3 tablet, and the upper left/right opposite corner becomes a 7x9 tablet (approximately).  The 2x3 gives you fast access to the whole screen with very little pointer movement, and the 7x9 gives you precision control.  Two tablets in one!
+
+WIDESCREEN / DUAL MONITOR SUPPORT
+
+Happy to say it works very well with dual screens.  You can span both screens using the full tablet, choose which screen to control exclusively, or reduce the functional tablet area to match the aspect ratio of spanned/dual monitors.  
+
+As far as widescreen monitor support, this tablet can automatically adjust the active area to match the aspect ratio of any screen.  So if you are considering the 6x11 widescreen Wacom, remember this tablet can double as a 7x12 widescreen.  I used a grey Sharpie to draw faint lines on the tablet surface to map out different screen ratios.
+
+BASICS
+
+USB of course.. Nice 8 foot cord so you can move around a bit, excellent for putting the tablet in your lap.  Has a pretty blue light.
+
+Thankfully the 1/2 "tracing overlay" is gone. Sorry to whoever was saying that was the primary feature for them.. In my experience it just gets dirt and coffee and whatever else you carelessly do to your tablet all stuck up in it. And if you accidentally crease it.. oh the pain... 
+
+STYLUS & NIBS
+
+The grip pen is nice, bigger than the Intuos 2 pen and has a good weight, otherwise the same. The "6D" art pen actually has two tips inside the felt nib, but sometimes the tablet doesn't register both tips (critical to rotation data) unless you plunk the nib down FLAT on the tablet before you start your stroke.  Without both tips active it just works like the grip pen.
+
+The nibs are interesting, I haven't discovered how the springloaded "Stroke Nib" is so much different from the standard white plastic nib.  Says it's "amazing" on the website but really.. ehh.  But the "Felt Nib" is definitely different.  Kind of makes me think of a Flair Pen.  It has considerable friction against the surface and squeaks on the tablet like a marker. This is good if your hand isn't surgeon-steady or if you want slower more precise strokes, but it is a bit grabby if you press too hard. Draw lines with a Sharpie marker on copier paper with a little extra pressure and it feels about the same.  My previous trick with the Intuos 2 was to tape paper on top of the tablet to add friction. 
+
+MOUSE 
+
+As for the 5D mouse, I think it's easier to use a regular mouse on the side.  Although the extra surface area makes a mouse much more practical on this pad than it is on a 4x5.  
+
+The mouse will jitter and is act strange IF you don't put the tablet in "mouse mode."  The software *should* just do that automatically, but sometimes it doesn't catch on.  Once the mouse is specifically set to mouse mode in the driver settings it should stay in mouse mode any time it's on the pad, and can be moved relative to wherever screen pointer is just like a regular mouse. Otherwise in pen mode the mouse directly tracks the tablet precisely where you place it, and the screen pointer jumps to that spot--just like the pens.  If you WANT you can put the pens in mouse mode, but again, weird.
+
+MACROS
+
+I use the Wacom mice mostly to run unrestricted macros that Microsoft and Logitech don't seem to want to let you run with their "programmable" mice these days.  Think "QuicKeys" on a mouse. You can program an unlimited string of keystrokes and menu commands, and link the macros globally or restrict them to specific applications.
+
+THE "EXPRESS KEYS"
+(THOSE RECTANGLE THINGS ON THE SIDES)
+
+You can program the left and right sets independently.  Again, you have complete control of any method of macro you'd like to assign to any of the buttons.  There is a whole list of options for each button and both scroll bars.  So you have eight buttons and two scrolls to program to your heart's desire on the pad.  IN ADDITION to simple button macros there is a "pop up menu" you can assign to any of the buttons.  Just like a Windows Right-Click menu, it appears wherever the pointer is--only you have complete control of the menu content.
+
+CONCLUSION
+
+My only gripe goes to Adobe for disabling most of the stylus/pen features in Photoshop by default. It gets a little tiresome enabling size, opacity, tilt, and rotation for almost every brush.. 
+
+As for everything else the tablet was meant to do different from a mouse, pressure sensitivity, tilt, rotation, high resolution tracking, lack of jitter.. it works fantastically. I'm just going to have to adjust to the huge 9x12 stroke. So give your Aiptek to someone you hate this Christmas, and hook yourself up with a Wacom! 
+
+Next up, Cintiq!  Paycheck.. well, better job, paycheck, THEN Cintiq!
+
+---------------------------
+
+WISH LIST
+
+Why do we have only one pointer (focus point) on the screen?  Why not a dedicated pointer per-device now that USB makes the mouse addressable?
+
+A "Wacom Glove" would be great.  If I could put on a special glove or just little thimble-nibs and have fingertip control on this tablet they'd have one helluva product.  Kids could fingerpaint!
+
+In addition to that, is there any technical reason why given the right input device this thing couldn't function like one giant "touchpad" with surface area detection and everything?  If the 6D can recognize two points simultaneously, what's the technical limit?
+
+bye
+

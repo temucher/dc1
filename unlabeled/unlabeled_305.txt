@@ -1,0 +1,9 @@
+There's a review here where someone takes their COMPUTER and analyzes the performance of the card.  Unfortunately, most of the time what matters is how the card works with your CAMERA.  A camera generally doesn't move data as fast as a computer, and it has to process it first - so those tests really only measure how fast you can download the images (or other files) to your hard drive.  If that matters to you, great.
+
+For the rest of you, especially camera users, here's the real story:
+- You need a faster than standard card if you plan to use 30fps 640x480 video.  It's also a good idea with high resolution cameras, if they are especially fast at processing and writing the images.
+- But ... I just bought a different 512MB SD card for $10 after rebate.  It's hard to beat that price / performance ratio if you're just storing photographs.  Sure, video of the 2 year old nephews is fun a couple times a year, but other than that, regular speed cards work fine for many uses.
+
+Always buy what's right for your needs.  And, if the price differences are small, go with the faster card.  
+
+There are promotions every week on various memory cards, look for one if you have time.  Those can make higher speed cards a good value, though the standard speed cards have gotten so inexpensive you may want one as a backup as well

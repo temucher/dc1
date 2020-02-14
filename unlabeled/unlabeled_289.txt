@@ -1,0 +1,1 @@
+I would not recommend this unit for most computers as the battery is too small to provide reasonable runtime.  Under a 200W load it only lasted 3 minutes while the Back-UPS ES 500 lasted almost 12 minutes.  The ES 500 is only slightly more expensive but provides much longer runtime.  In my opinion this UPS is only good for very small loads (less than the average computer)

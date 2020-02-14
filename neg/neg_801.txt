@@ -1,0 +1,2 @@
+I've had my HP5510 for 4 weeks. So far everything works to my expectations except--when I press the scan button an error comes up on the LED: Unable to scan documents from Printer to PC. No Scan Options. You need to install or run HP software for
+feature. Press OK to continue." My system is 4 weeks old. I had a local reputable company put my system together. We uninstalled and installed HP software several times. Went to HP website-could not find a patch. Couldn't repair error. My last resort is to call HP which I haven't yet.  

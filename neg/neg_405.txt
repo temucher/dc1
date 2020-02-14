@@ -1,0 +1,21 @@
+I have been using the Palmone Navigator with my TX for about eight weeks.  Most of my comments are based on a comparison with the built-in navigation system in my Lexus.  
+
+Software installation is fairly easy.  However, you need at least a 256 MB SD card to load more than a couple of states; I recommend a 1 or 2 GB card.  
+
+While the concept of a TX doubling as a navigation device is intriguing, the realty of it is rather sobering.  It is a cool toy, but if you have to plan routes for your job or any other meaningful purpose, this is NOT the right product.  
+
+The pros are:
+ - Inexpensive in comparison to built-ins und stand-alone products
+ - Unit can be used in different locations and cars and even while walking
+ - One device serves multiple purposes
+
+The cons are:
+ - It can take up to several minutes after starting the unit to acquire a satellite signal.  This is not the case with my car's OEM navigation system.
+ - The maps are outdated and not as precise as the OEM nav system:  I live in Phoenix, AZ and my neighborhood (built seven years ago) as well as most of the freeways I take to work and back don't exist on the software.  More recent updates are not available (I checked the Tomtom website).
+ - Navigation is often not precise enough (e.g. it tells me to make a left in 50 yards, when I have already passed the intersection where it wants me to make a left).  I never have this problem with the built-in navigation.
+ - Look-up function for addresses and phone numbers is clumsy and doesn't display actual address until you map it.
+ - It tends to freeze at least a couple times a day, requiring a soft reset.  
+ - Lost connections to the satellite receiver or lost satellite signals also tend to disrupt the navigation on longer trips with stops.
+
+Overall, the unit is too unreliable to be used as your only navigational aid.  If you need navigation to get to your travel destination, you are better off with a stand-alone unit.  I truly wish I had better things to say about this device since I really like the concept, but the reality just doesn't match the marketing.
+

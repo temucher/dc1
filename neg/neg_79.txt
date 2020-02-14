@@ -1,0 +1,10 @@
+From looking at the D-Link website and talking to five tech support staff, it appears that there are countless versions of this card, each with different driver software. The one I got came with a CD with the wrong drivers. With tech support, I finally found the 8 mb driver file I was supposed to download. However, they did not provide any instructions on how to install the new driver. The normal "automatic" approach did not work. And their instructions did not match the screens I was getting on Windows XP SP 2.
+So I called back again. And again. And again. 
+Despite being given a case file, each time I was asked the same questions, including what, exactly, is wrong. And each time I was told to do the same thing: Install from the CD. Reboot. Remove the program. Reboot. Install from the new driver. Reboot. Remove the program. Talk to a senior tech support person.
+Install from CD. Reboot. etc.
+It would have been easier to send the card with the right files on the CD. A clearly designed website would be second best. And tech support that knows what they're doing and speaks intelligble English would be a nice last resort. 
+I spent three hours calling D-Link technical support and speaking to five people, and they could not tell me how to install the software for this card!
+I am not alone in this experience; see cnet's web site user reviews of the DWL-G650. 
+Another reviewer reports that this software damaged his operating system. I believe he is right. It appears to have damaged my screen font for Windows message boxes. I have been unable to repair it. The DWL-G650 is bad news.
+I give them two stars cause they actually have tech support, though in this case it was utterly worthless. 
+Back it goes

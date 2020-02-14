@@ -1,0 +1,4 @@
+This is my second disappointment with Linksys products.
+I have purchased this AP to use in AP client mode connected to my Netgear WGR614 wireless router. The product comes with no user manual or technical specifications sheet. After spending some time trying to set up connection I  have found user manual on Linksys web site, and discovered that AP client (as well as AP repeater) modes are supported only with another Linksys Access Point. It's not compatible with other vendor's products.
+When I tried to use it in Access Point mode, the signal was 2-3 times weaker then my old Netgear's. 
+I am getting Very Good to Excellent signal quality from Netgear WGR614 (36-54 Mbps) and Good to Very Good (11 to 24 Mbps) from WAP54G..

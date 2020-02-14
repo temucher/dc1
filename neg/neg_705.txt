@@ -1,0 +1,3 @@
+OK, so it protects the TX on a fall, however the latching mechanism depends on a thin piece of plastic that eventually breaks, rendering the case without anyway of remaining shut on its own.
+
+Replacing this with something like the BoxWave.com hardcase, availab le from Amazon

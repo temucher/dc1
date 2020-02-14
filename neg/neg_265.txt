@@ -1,0 +1,5 @@
+I bought two of these cards to go alongside my wrt54gs. I though that they should work great together since they are from the same manufacturer. Oh boy was I wrong.
+
+Even the though I get full bars with these cards, I get very flaky connections with them. I've tried many different settings and firmwares to try to rectify the problem. Many hours have been spent trying to get a stable connection. No dice, very flaky.
+
+Other computers with different cards work fine with the wrt54gs and never dropout. So there is something about this card that just isn't right, and I can't imagine both cards being defective. I haven't tested them with another router, but if it can't work with a wrt54gs v3, then what's the point

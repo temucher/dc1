@@ -1,0 +1,20 @@
+                   
+After reading the detailed reports here for how to setup this Linksys gaming adapter unit, everything worked great for several days. I setup the fixed IPs, and all the rest of the settings through the web interface, all seemed well. 
+
+Note: I'm a network engineer, so the dual-fixed-ip recommendation [one for each segment] is actually pretty normal in other network bridging appliances. I suspect the MS game adapter simply performs the DHCP handshake better than this unit and that is why it is so easy to setup. 
+
+
+Then the weird stuff started. 
+
+After having had this unit turned on for several days, I notice the connection would become slow and not quite as fast as when the Linksys is first turned on. Yet, the XBOX still shows the signal between 48 and 54 Mbps. Strange. 
+
+I have reproduced this several times, booting the linksys device, then playing all kinds of games online for hours, running XBMC and playing media through the network perfectly. All is good for several hours, but come back the next day after leaving the Linksys on all day/night, turn on the XBOX, and the network connection is spotty again, but the link details show a full speed connection in the XBOX wireless interface details. 
+
+A swift power cycle of the Linksys unit solves the problem immediately, but why should I need to do this? I suspect some NIC buffer is being filled on the Linksys and the power cycle clears out the unit's network buffers. 
+
+If anyone has figured out what settings to use to keep this thing stable, I am ready to listen, maybe I should select a G-only network and set the speed at 54 or 48 fixed, maybe that will work? 
+
+Anyway, I am getting tired of power cycling this thing every day. 
+
+Good Luck, 
+F. 

@@ -1,0 +1,1 @@
+I am still awaiting resolution of a problem I have with these drives. In writing DVDs I get verification errors. This proboem arises if the drives are used in an external firewire enclosure. The drive works fine if internal in your computer attached to the IDE bus, but there is an issue if attached to your computer by firewire

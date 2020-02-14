@@ -1,0 +1,25 @@
+when I bought my Intel iMac w/20" LCD suddenly everything else looked dull in comparison. This Apple 20" is very close in spec to my iMac 20" screen. Stores like Best Buy do not have good quality 20+" LCDs in yet. You want the 16x9 profile also, the regular square LCDs look dorky in comparison and typically have lower brightness and contrast ratios. The newer stuff is very bright and clear. It is obvious when you go to a store and look at the LCD screens. The cheap $200 LCDs just don't look good in comparison to the new stuff.
+
+Intel iMac screen:
+1680x1050
+280 cd/m2 (brightness in candle power)
+800:1 Contrast ratio
+
+Apple 20" LCD
+1680x1050
+250 cd/m2  
+400:1 Contrast
+14ms response time (www.apple.com/displays/specs.html)
+
+Other comparables:
+Gateway 21" 1680x1050 $599
+300 cd/m2  1000:1 contrast
+
+Dell 24" 2405FPW $800
+1920 x 1200
+500 cd/m2
+1000:1 contrast
+
+You should be aiming for at least 300 cd/m2 on brightness and close to 1000:1 contrast.  These Apple LCDs have been out for awhile and are starting to show their age in comparison to the brand new products that have just started to come out. If you are using your LCD for a TV you may need the brightness, but for computer work the Mac 20" LCD is just about right. 
+
+I paid a few $$$ more ($750 total price) for the Apple LCD, but I feel I made the correct purchase. I just didn't like the way the others looked and it had to look good against my iMac. I actually like this screen better than the one on my iMac and it seems just as bright even if the specs say that it is not. Amazon also boxes the shipment (besides the Apple box) so your screen should arrive undamaged

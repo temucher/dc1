@@ -1,0 +1,41 @@
+
+
+
+Perhaps I got a lemon, but I feel wary of buying another DT200V for 2 reasons:
+
+
+1.  From the day I got it, the power button was so sensitive that a tiny waft of air (no kidding) would turn it off (or back on) at whim.  Right in the middle of a song, or talk, this shortly became maddening.
+
+Since this is unacceptable for a $50-range radio; and since I didn't want to spend as much money mailing it to and fro as it was worth, instead of sending it back -(OH looking back, how I should have!)- I opened it up myself, and had to physically shave down the plastic underside of the on/off button where it touched the internal power switch.  As I couldn't conversely move the guts further from the button, this was the only solution.
+
+Thankfully this worked, and the on/off button did not give me further problems after this.
+
+
+
+
+However,
+
+2.  Not many weeks or months of use in, the radio developed this habit of shorting out or something to where my pre-set stations just scanned as blank 'fuzz' (no station, not even 'intelligent' fuzz/crackle like it knew a station existed anywhere on the planet) and I could get zero stations of anything at all--not FM, not AM, and no TV.
+
+This would happen right after turning the radio on, and I should note that I always used headphones (not the ones supplied; as with most, throw them away, they're not worth it).  It seemed to me through trial and error that just turning the radio on was fine, but the act of plugging in some headphones joggled some connection or shorted something out, and did this.
+
+I tried several different pair and types of headphones (some with noise cancelling switches, some without, and with these On and Off), and used the 'lock' switch on the radio both in the on and off position while plugging in my headphones (as the company I bought them from recommended turning the lock switch on when changing batteries, to prevent shorts), but nothing I have done has prevented this from eventually happening again...repeatedly.
+
+It is really annoying when it does, as removing the batteries (which always will lose all your presets, by the way) and waiting several minutes rarely clears the short.
+
+Weirdly, the thing I've found which clears the short or re-makes whatever connection is messed up correct itself, is opening up the back (screwdriver required) and kind of pushing the guts (board) one direction or another, kind of scooting it (there's minimal movement available, though), and saying a little prayer and putting the whole thing back together again.  Most of the time, that has worked.  Occasionally, I've had to repeat the process 3-5 times before it will.
+
+Sometimes it lasts several weeks before this'll happen again, other times, it happens multiple times a day.  The day I can't fix it (I don't even know what I'm doing that's fixing it!), I'll throw it across the room, against a wall, and I probably _won't_ buy another one.
+(If I do, I'm keeping the receipt, NEVER opening up the back as it voids any warranty, and returning it (not for repairs--for a refund!) the split second it gives me any trouble of any kind.)
+
+
+
+
+
+For all this, I grudgingly say that it does have very good reception quality of FM (I almost exclusively listen to this), pulls the stations in nicely, and has very low amount of static.  When one particular station does, it's usually more the fault of distance, or we're getting out of range, or the batteries are very low- that's at fault.
+
+Indoors in a computer-saturated office-cubby environment and not near a window, though, I'd have to say, it has had some significant problems pulling in any more than 3-4 strong-signal stations without major static.  But your office environs may vary.  (Some are more electrical field saturated than most.)
+
+The FM (musical) sound quality itself is good/decent, and I might say better than many...but my 1 criticism on it is a certain 'canniness' of sound quality (across various headphones I've plugged in).  It's lacking some fullness of the midrange, and warmth.  Also, the bass is not what it could be.  I'm not sure given its overall sound quality signature if the addition of a bass boost button would have helped it or not.
+
+For me, clarity and volume have helped me ignore some of the lesser aspects of the DT200V's sound signature.  However, shopping for my next purchase, that will move up higher in importance

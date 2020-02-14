@@ -1,0 +1,5 @@
+Be aware before you buy this flash drive that it will not accept file names with many commonly used characters like: '?' and '/'. When it encounters
+these characters, it stops transferring files completely and you have to 
+begin the copying process again after 'correcting' the file names.
+
+For me, this was a serious inconvenience and an undisclosed liability of the device. For others, it may be less important

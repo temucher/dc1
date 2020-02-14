@@ -1,0 +1,13 @@
+Netgear clearly has not figured out how to make their RangeMax adapter work well with the Microsoft XP operating system.  If you're not a techie, I'd stay away until Microsoft has certified the WPN311. Here's what I experienced:
+
+1. Installed using the Netgear WPN311 automated configuration.
+2. After installation completion and boot up, CPU utilization was at a solid 100%.  Executable from Netgear named WLANCFG5.EXE taking up a bunch of the CPU and Microsoft routines CSRSS.EXE, NET.EXE, and NET1.EXE taking the rest.
+3. Emailed Netgear and received response to use Task Manager to delete WLANCFG5.EXE.  Did so for all users.
+4. Hey!  CPU utilization returned to normal!
+5. Sent next email to Netgear pointing out that this solution is just a "patch" and WLANCFG5 would return when I re-booted.
+6. Received response to de-install and re-install software for WPN311.
+7. Did so, but then Netgear adapter software could not find my MIMO wireless router!  And usage of the Netgear adapter software doesn't allow you to use the Microsoft Wireless Zero Configurator (WZC).
+8. Went to microsoft.com and looked up error 871122 "Error message when you try to run the Wireless Network Setup Wizard" and followed the instruction to allow usage of WZC.
+9. Then able to add my wireless router and everything is ok.
+
+The functionality works great.  It's the getting there that's not too pretty good.....

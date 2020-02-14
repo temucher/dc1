@@ -1,0 +1,3 @@
+I had this in my computer for a month, with a satellite radio on the audio-in and speakers on the line out.  It started crackling and the audio was distorted after a few weeks.  I took the SB out and went back to the motherboard onboard audio and it worked fine.
+
+Conclusion = Sound Blaster suck

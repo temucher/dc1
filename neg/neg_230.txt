@@ -1,0 +1,23 @@
+  Essentially once TomTom has your money they're finished with you . . . until you want to spend more money with them.
+
+  The product is okay. The map data is from TeleAtlas, a vendor to many of the map software producers. What makes TomTom different is its GUI (Graphic User Interface) that the user interacts with. It really is a work of art most of the time. The map presentations are rich and may be viewed as 3D or 2D. The planning interface is icon driven and easy-to-use. Unfortunately TomTom really didn't think it all the way through.
+
+  There are several irritants, all of which vie for first place. One is that TomTom doesn't give you the option of using its maps without a GPS. There are many instances where I know where I am begining from and going to and I don't need a GPS fix. TomTom ignores such desires and annoyingly keeps prompting for you to start your Bluetooth connection. There is one mode that you can use to plan a route without a GPS and it simply doesn't work very well, often informing you that TomTom can't route you from a point beginning on an interstate to another point further along the same highway. That's just plain dumb. This is a mapping application. If I want to use these expensive maps for walking directions without a GPS, I should be able to. TomTom certainly doesn't think so.
+
+  Another irritant is the documentation. Probably in an effort to make TomTom appealing to the casual user, the documentation is dog simple . . . and often wrong. It appears that they didn't update the documentation to the newest version.
+
+  Although you can load maps by region, TomTom makes no allowance for travelling from one region to another. You have to calculate your route to the ending point within one region and then begin it anew in the next region. Again, this strikes me as a silly omission. If you are in Wisconsin, which is one region, and drive to Minnesota, which is in another, you have to create two routes. Not bright.
+
+  There are a number of idiosyncracies, anomalies and bugs that drive me up a wall. However, overall, TomTom is still better than the competition. It computes routes quickly (when it is capable of figuring a route at all). Annoying, however, it tends to prefer expressways, regardless of your preferences. In a major metro area laced with expressways going in all directions, this can create some incredibly convoluted - and ridiculous - routes. Creating alternative and more logical routes is possible, but tedious.
+
+  The worst part of the TomTom experience is its customer support. Well, perhaps support is the wrong word for it. I encountered two problems installing the software. It was obviously that the tech support person was clueless and was simply guessing and grasping at straws. (I had resolved the issues before the rep called and already knew what the problem was.) The TomTom rep didn't listen, kept interrupting and when it was pointed out that he was contradicting the manual, he just kept moving. (The manual in at least one instance was correct and the rep wrong.)
+
+  The TomTom packaging itself arrived in broken condition. The rep denied it was their packaging, claiming that I must have bought a third-party repackaged product. Talk about insulting: I have the package in front of me with the TomTom labels, the whole works and this guy is telling me that my lying eyes are deceiving me?
+
+  A fax to TomTom management about my experiences has gone unanswered more than a week later.
+
+  TomTom is riding high right now but I suspect in a couple of years as competitors introduce better products with better support that TomTom will be history. It won't be the first company that offered a good-enough product without support and possesing contempt for its customers to disappear and it won't be the last.
+
+  I know that if I find a marginally better product with adequate support, I'd abandon TomTom in a flash.
+
+Jerr

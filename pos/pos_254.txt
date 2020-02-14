@@ -1,0 +1,1 @@
+I use this with an iMac. It does not come with drivers for Mac OS X, nor does D-Link offer any help. They refuse to admit it will work with Macs. I was pointed toward a driver made available at [...]. I remember having trouble getting it to work, but once it was working it has worked well and consistently. The iMac connects to an AEBS a couple rooms away through the D-Link

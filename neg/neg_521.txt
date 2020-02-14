@@ -1,0 +1,9 @@
+This player is a piece of junk.
+First the USB really doesnt mean you can hot swap. You can access the files only if the software is installed on the computer which means that you cannot pick up MP3 from any computer.
+Second, it gives errors with XP. It tries  to install drivers every time.
+THird, removing old and adding new MP3 is such a hassle. It takes minutes to delete old files and add new. Seems like you are working with a floppy.
+Fourth, its Mojo software hangs all the time.
+Fifth, it sucks battery life.
+Sixth, if your MP3 is not in a directory, i.e. if copied directly, it wont show. Then it wont delete and will show 200 MB as not free space. Formatting is the only way out.
+Seventh, it came with a mail in rebate which never showed up.
+Overall, a bad experience

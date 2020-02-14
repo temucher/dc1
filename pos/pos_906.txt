@@ -1,0 +1,13 @@
+I got mine to work in about 30 min following S Huffs directions below (followed exactly).  There was only one thing not mentioned that I had to do to get it to work.  Once you get into the settings on the range extender to enable WEP and put in the key and passphrase, I had to turn WEP back on on my router before saving the settings on the range extender.  Basically just put step 6 before you save settings in step 5, this is what worked for me at any rate.
+I've had it for about 4 months now and it has worked as advertised.  I gave it 4 stars because set up was still kind of a pain.
+
+From S Huff: The tips that Anthony Taylor left helped me get it working... but I still had some issues. I've added onto his tips from his review below 
+
+1-Disable WEP on your Router or AP 
+2-Hold the auto-configuration button for 30 seconds(if everything goes well both lights on the expander will turn blue) and unplug while still holding button. Plug back in after 10-15 secs. 
+3-open your Internet explorer browser and type 192.168.1.240 (default ip of expander), a window will pop up. leave the user name blank and put admin as a password (this is default password). 
+4-make sure that the default gateway and subnet mask settings are identical with your Router or AP,change password on the expander if desired & save settings. (all settings should be correct due to auto configuration) 
+5-Enable WEP on the expander, once again remember use same settings that you will be putting in your router or AP in step 6 -- aka same passphrase), save settings again. 
+5.5 - As soon as you enable WEP on your expander - you will loose your connection to it as it's now setup for WEP and your router isn't - keep this in mind - drove me nuts. 
+6-Go to your Router or Ap settings and enable WEP. 
+7 - UNPLUG your expander for 10 to 15 seconds and plug it back in -- Bang you're DONE. Enjoy 

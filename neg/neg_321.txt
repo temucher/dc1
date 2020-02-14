@@ -1,0 +1,6 @@
+Problem #1 - out of hte box, these units are assigned 192.168.0.10 as an IP address.  find if your network is on the .0 subnet.  So I had to change my entire network over to this in order to get it configured.
+Problem #2 - once changed, now i have Ip address issues because of the existing clients picking up the .10 address.
+Problem #3 - If you incorrectly specificy the SSID/wep key or IP address, you have to put it back to the defaults and start over.  there's no way to configure the unit 
+Problem #4 - it just plain don't work as it should.
+
+Easily the most difficult unit i've ever had to configure.  It's a shame that I'm swearing off linksys as their prices are good.  Despite it's decent price, stay away from this one

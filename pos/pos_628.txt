@@ -1,0 +1,17 @@
+I'm very happy with this model. I use it mostly as a VCR replacement to record broadcast TV shows. You can't beat the price for this feature-set. I'll try to describe some aspects that aren't mentioned in the other reviews. The owner's manual can also be found online in PDF format.
+
+It can schedule upto 16 programs. It does not support VCR+ or a TViO-style program guides. You can enter a title into each schedule that appears both on the schedule list and direct navigator chapter menus. It even sorts the main schedule listing and indicates which events are on the current disk. Every on-screen menu shows you which remote control buttons are functional on that screen.
+
+The commercial skip button advances about 60 seconds which isn't quite granular enough, but 2 clicks and a little fast forwarding works well. The remote operations have a very fast feeling response compared to tape players. 
+
+My only complaint: The remote sensor on the recorder seems to be all the way on right-hand side. When the unit is in our video cabinet, the sensor is in a deadzone for half the room. We can't shift the position much because the disk tray slot is all the way on the left side and won't open if it's too close to the wall. Of course this probably means nothing to you.
+
+At the highest quality setting (XP) it made a very good (near perfect I'd say) copy from a 8mm video camera using analog inputs. At that setting, only one hour of content fits on a DVD. The next lower setting (SP) which can hold two hours per disk, the copy from the video camera had some contrast problems. Most TV shows recorded in EP (8 hrs) are acceptable quality although you do see the blockiness and some motion blur at times. This is especially pronounced on animated shows. The four-hour LP setting had no apparent digital artifacts on recorded TV. It also has a Flex-mode option I haven't tried yet in which you tell it how long to record and it will fit the recording to the freespace available on the disk at the highest possible quality.  Probably would be good for recording a TV movie.
+
+It's too bad other vendors haven't adopted the -RAM format because most of the features on this box only work on that kind of media, but it won't play on most other equipment. The other formats seem lame by comparison, but this unit can play and record on them. 
+
+Watching one show while another is recording (or the same show that's recording, but from the beginning) is very easy to do. Most of the operations are very sensible and explained on-screen pretty well, but you should spend some time in the manual if you've never had a dvd recorder before. It can do a lot of stuff.
+
+One interesting feature is that no matter what input you are using, the signal is sent through the s-video output.
+
+It can't burn music CD's which seems like it would have been a trivially easy feature to add. That and a battery backup (so I won't lose my schedule) and wider angle of view for the remote sensor would required get the fifth review star

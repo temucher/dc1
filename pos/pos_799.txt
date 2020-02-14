@@ -1,0 +1,5 @@
+I've had this controller for over a year now, and it still works great and reliably as ever.  After many months, the analog sticks occasionally drifted a little, but a quick jiggle and they'd be back to center.  
+
+The profiler software is excellent, allowing you to fully map the controller to your keyboard and even mouse.  This allows you to play any game with the controller, even ones which don't naturally support gamepads like Splinter Cell.  With the "shift" profile function, you can effectively double the number of buttons which I found great for playing a complicated flight sim like X-Wing Alliance, completely keyboard free, using only the gamepad.
+
+Only downside: The D-pad is hard to control precisely.  It's difficult to press only Up, Down, Left or Right.  You almost always end up pressing a diagonal direction instead.  This made the D-pad more or less unusable for games like Street Fighter, but then the analog stick was a perfect alternative anyway

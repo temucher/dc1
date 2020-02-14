@@ -1,0 +1,3 @@
+You don't have to spend a fortune on expensive cables when you are dealing with digital signals.  Keep in mind that all digital interfaces have error correction built into them. Did you know the internal components of consumer electronics are connected with tin and nickel?  There's no gold inside!  So there's no need for oxygen-free, gold tipped, multi sheilded, super mega supreme cables.   If you don't believe me, buy this cable and a no-name cheapie.  Compare them for yourself -- you will see no difference.
+
+With analog signals, a good quality cable may make a difference (although the difference is usually only visible on an oscilloscope).

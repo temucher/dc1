@@ -1,0 +1,1 @@
+It dies if you plug in any external USB disk drive or card reader.  D-Link just doesn't know how to write device drivers that work well.  I've had problems with every D-Link product I've ever bought

@@ -1,0 +1,21 @@
+I decided to replace my iRiver 190T after a 3rd party cable adapter malfunctioned and fused the pin connection to the USB cable together.  I wanted USB 2.0 for the faster connection and a larger capacity, but still desired standard user replaceable batteries on a flash based player so I picked this up on sale.
+
+I may still search for a used iRiver 190T after playing with the Lyra RD2315.  I like the ruggedness of the 190T a bit more than the RCA Lyra RD2315.
+
+Pros:
+User replaceable AAA batteries
+Expandable SD slot up to 512 MB
+Decent sound for biking and general yard work
+Screen is able to be positioned at 0 or 180 degrees for easy reading from belt clip/lanyard
+Line in recording and voice for short memos
+3 different color backlights for user preference
+Decent battery life
+
+Cons:
+Headphones are worthless.  Placing them in ear prevents clips from holding them in place
+Slow reaction on interface compared to older iRiver player "Please Wait..."
+Belt clip is going to break after minimal usage (like ink pen cap clips do)
+Doesn't seem like USB 2.0 speed, just normal USB 1.1
+No armband or case available
+
+I used firmware 3.11 for my testing after upgrading from version 1.11

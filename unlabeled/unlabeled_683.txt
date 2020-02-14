@@ -1,0 +1,9 @@
+I bought the BE650R for two purposes:  The first is to provide battery backup power for my home computer system on a daily basis.  The second is to use with my portable generator to provide "clean power" to all of my electronics when the power goes out and I'm forced to use it.  The BE650R handles both situations very well.
+
+The provided PowerChute software installed without a problem and managed the computer system perfectly when the power went out, completing a graceful shutdown when the battery got low.  APC only provides the most basic version of their software (you have the option of buying an upgraded one).  It doesn't have any reporting or testing features, but given the size of the BE650R I don't see why you would care.  This is a UPS for workstations and small electronic, not servers, so I don't see the need for robust UPS software. 
+
+The UPS hooks up via a provided USB cable and the setup was very easy.  The BE650R provide about 11 minutes of run time for my system, which is comprised of a 350-watt computer, 19-in lcd monitor, wireless router and dsl modem.
+
+As for using the UPS with the generator, I haven't had any problems so far.  The generator maufacturer recommmends using at least a surge supressor with their product, but I figured a UPS would be one step better.
+
+I would definitely recommend this unit

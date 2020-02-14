@@ -1,0 +1,9 @@
+The first warning sign is that the drivers are not Windows approved and unsigned. Their installation instructions advise you to ignore the warnings.
+
+Next, is the cheesy "cool" looking set-up program. Please forget about the groovy graphics and just provide a usable interface.
+
+Then, the drivers don't work. My cursor slides all around the screen after I stop moving the mouse. I tried calling customer support, but there is no telephone support. I then tried connecting with their online chat support. No one helped me after 20 minutes. Two days later, in response to an e-mail, they sent me 3 pages of instructions about how to adjust my system to accommodate their crappy software.
+
+Too bad, because the mouse itself is a nice piece of hardware. Solid-feeling, well-built, and comfortable.
+
+I'm sending mine back for a refund

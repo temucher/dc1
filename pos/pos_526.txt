@@ -1,0 +1,41 @@
+ok mimo is becomming popular ....i dont give a darn.
+
+my home net work relies on a cable modem(moto4200)+wlanRouter
+
+my house is 2 story high and it's made of steelbar re-enforced
+
+concrete... with brick wall here and there...
+
+since the internet performenc is lower then 9mbits max...
+
+all i wanted was penatration through the concrete floor..
+
+i 'v used pen type? usb adapters and so on ...but they were
+
+always short in range ...but g120 was another demention ...
+
+allover the house allrange !when i put this close to the wall
+
+adjacent to the negihbor's house, i was able to update my 
+
+neighbor's router firmware (i've done it twice already)
+
+speed is not the main concern in my case .
+
+but you guys should know about it's response speed . its a
+
+little slower then pcmcia types even if i use usb2.0 connection
+
+but i think thats because my lap top is running xp-pro on
+
+celeron 800/256mbram. as long as you have a good pc 
+
+(faster then mine~!)
+
+you wont have any problems. it's not that hot dont worry!
+
+i wont give this product 5stars because it's not small enough.
+
+who needs mimo. !
+
+ps: use the zero config not the stupid utility

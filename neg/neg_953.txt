@@ -1,0 +1,5 @@
+For my PowerBook - my first bluetooth mouse (a macally bt) worked for about nine months and then a bad battery caused major leakage all over my desk. So for the replacement I read the reviews and went with the Kensington bluetooth mini - primarily for the on/off functionality.
+
+I like the size and shape, the on/off switch and the scroll works just keen. However, tracking is a nightmare - especially when CPU usage is high (applications like Photoshop, Acrobat or using a VPN to access my work files). I tried troubleshooting, adjusting the track rate, but nope. The cursor continues to stutter across the screen with this mouse.
+
+I think I'm going to throw in the towel and go back to wired

@@ -1,0 +1,9 @@
+This review concerns the "v3" hardware and firmware v3.0_20 - I did not purchase from Amazon.
+
+For the most part, everything works pretty well.  I have discovered a bug where the log is not cleared after a scheduled-email out, which leads to strange behavior for the log-emailing function.  I can always go into the web-interface to view or clear it with no problem.  Another thing to note regarding the log is that VPN (not pass-thru) has its own separate log area, which does not get emailed out.
+
+As expected, Netgear support is mediocre.  Level 1 support can only handle very simple issues and Level 2 support is VERY slow.  I recommend you use the incident-submission area of the "My Netgear" website, so you can more easily track/respond to support incidents.
+
+For those of you using the FR114p model, this is basically the same thing with 8-connection VPN service minus the printer port.
+
+I figure, after a few more firmware revisions, this will be a really good unit

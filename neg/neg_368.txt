@@ -1,0 +1,5 @@
+I bought this keyboard/mouse set hoping to consolidate most of my wireless devices onto a single HUB and standard.  
+
+Setting up the set was easy enough in Windows, but I immediately found that the mouse did not work well at all.  The cursor would move in increments of around 10 pixels at a time.  I even put the Bluetooth adapter on a USB extension cord and placed it within inches of the mouse, but that didn't help at all.
+
+The keyboard seemed to work well, but I didn't use it for very long because the mouse was unbearable to use.  I have several wireless networks in my area, which may be causing interference with the Bluetooh though

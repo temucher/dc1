@@ -1,0 +1,6 @@
+It's unfortunate that an earlier review indicated that the unit had a serious flaw -- beeps whenever there is a problem with the incoming power.  This person obviously didn't take any time to familiarize himself with the software that controls the UPS.  The notification sounds can be completely turned off with the software.
+
+I agree that I was annoyed when the unit made a loud beep in the middle of the night when there was a power problem.  Luckily, it was easy to turn this feature off.
+
+Five stars for this product, for sure.
+

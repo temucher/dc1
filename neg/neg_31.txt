@@ -1,0 +1,3 @@
+Most people buy a UPS, plug it in and never test it to make sure it works. I tested this device a number of times to make sure the software would at least shutdown the computer after an outage. I set it to shutdown Windows after 1 minute. Only the computer and a few small phone accessories are attached to it. 
+
+After power was cut, it held the computer up and allowed it to shut down. Then I restored power to the UPS. AFter about 30 seconds, it beeped, clicked, and temporarily DROPPED power to the computer while it was rebooting! So when it switches back from battery power it causes power to be interrupted. That is unacceptable. A UPS should never drop power to the attached devices after power is restored to it.

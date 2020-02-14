@@ -1,0 +1,9 @@
+     I bought this burner for around 40$. I needed to add this for my system, which didnot have the dvd burner part and also needed to backup my information.
+     This is easy to install, if you are going to have two drives running, then you need to set up one drive as master and the other drive as slave, the white ide cable that is allready present in your system usually has this labels, usually the top end of the ide white cable is the master and the middle point is the slave. now also connect another power point, at the same end as your previous drive, and you are ready to roll. if your computer doesnot recognise either of the drives, then you need to change the Jumper settings, at the very back of your drive, by the side of the IDE cable slot, you have another small slot whith three pairs of pins, one end of them is covered with a black clip like jumper, you need to change it to the other end, and then restart your comp. Please donot forget to turn the power off.
+      Now about this burner, this is an amazing piece, which burns DVDs really silently. It comes with nero 6, software which is easy to use. I didnot need any upgrades of the software, the older version works fine for me.
+      The reason i have given it 4 stars only is because it makes a funny noise when it reads my DVDs, funny looking at how silent it is when it burns them. It also will read DVDs that have scratches, and other drives wont recognise.
+      All in all this is a very good buy for the price, if it is to be your second drive. And hey it is a NEC, so dont worry.
+
+
+Update 6 Months Later.
+This NEC burner works very well and is very silent when burning the DVDs, infact so silent that initially i wasnt sure if it was actually burning the DVDs. I would recommend Nero software for this burner. All in all a solid buy for the price and performance

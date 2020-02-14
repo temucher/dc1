@@ -1,0 +1,13 @@
+The 2.0 GB SanDisk Cruzer Micro flash drive looked like a good deal when I saw it on display at Office Depot.  It was roomy enough for all of my data and configuration files, was rated for USB 2.0, and was reasonably priced.  My first choice would have been an larger version of the 1.0 GB Iomega I use at work, but, alas, such wasn't available.
+
+Unfortunately, I waited too long to put the SanDisk through its paces, or I would have tried to get a refund.  As many others have remarked, it is horribly slow.  While backing up my roughly 10,000 files, I found that it was taking about a second per file -- longer for the big ones.  This translated to around four hours to complete the whole operation.
+
+Bulk deletes take just as long to carry out.
+
+Using my Beyond Compare file synchronization software to *read* the SanDisk and compare its contents to what was on my hard drive went reasonably fast -- until, for no obvious reason, it hung on one particular Word document this evening.  I couldn't even get my Windows XP machine to shut down without yanking the SanDisk from its slot:  the usual "safely remove hardware" operation wouldn't work.  After three attempts to read the same file, and three reboots, I tried to delete it from Windows Explorer -- and this operation hung too.  Finally I was able to do the deletion from the DOS prompt.  Just like 1985!  I then recopied the file, and now Beyond Compare can finish its work without a hitch.
+
+But can I trust the SanDisk to deliver up my precious files when I really need them?  I dunno ....
+
+So, it's back to the drawing board.  Maybe by now Iomega has come out with that 2.0 GB model.  As for the SanDisk, I'm reminded of that painful adage:  you get what you pay for.
+
+Ugh

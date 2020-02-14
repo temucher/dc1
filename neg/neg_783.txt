@@ -1,0 +1,3 @@
+Not so happy. Ordered one of these and plugged by PDA which did not charge.
+
+Turns out that it only charges when the larger item is drawing current. So it will only charge the phone/pda etc IF the laptop is drawing current. This is very annoying when the laptop is shut down with a full battery since it draws no current, thus the phone/pda do not charge

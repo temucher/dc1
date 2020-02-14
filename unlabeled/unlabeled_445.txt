@@ -1,0 +1,15 @@
+This was a breeze to set up.  Just install the software on you computer, enter the model numbers of your components.  For those few items that aren't in the list, the 880 can learn from an old remote.  As a very nice bonus, if you don't have the old remote, the software will try to pick a device (example : you have an RCA tv Model XYZ , if model XYZ isn't in the list, it might suggest ZxY)  , and that suggestion should work. 
+
+I liked how I could create a list of favorite channels, and how I could upload icons for those channels to the remote.    So that it shows the icon instead of the number.  Or better yet.  Open the icon in paint and in the icon put the number (the channel number right in/on the icon).  It looks good and works great!
+
+I love how the database for the IR codes for all the different devices can be added to by the users of the remote.  I understand that no company could ever hope to have ALL of the IR codes for ALL devices ever made.  To think that a company could do that would be insane.  Logitech realized there is power in numbers.  Let the end users help to improve things.  
+
+It also allows you to leave any components on permanently, for example my TIVO box.  I don't want that to turn off.  It can be turned off, and as a default the Harmony 880 will turn it off (to save power).  I prefer it on.  And making that change was pretty simple, you just go into the preferences for the TIVO (in the harmony software), and tell it "Always leave this device on".  Now when you hit the off button on the harmony remote, everything else turns off and the harmony 880 leave the TIVO on.
+
+My only complaints are these items: The buttons to the left and right of the screen are a little tough to push.   I personally think they should have been a little easier to activate.  Also I would have liked to have had the pause button a little more centered and more separated from the other buttons.  That way it would have been easier to pause a tv show/dvd/vcr tape.  
+
+And last but not least the Media and Device buttons should have been separated more from the left and right arrows that are just above those buttons.  It's a little tough to hit them without thinking about what you are doing.
+
+Given to have made the improvements I have just said would require adding a little width to the remote, but the trade off would have been for the better.  
+
+All in all I suggest the remote for anyone who has a number of components for their home theater.  It works wonders.  It might just be that I am a little to picky on my technology.  

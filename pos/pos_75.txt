@@ -1,0 +1,16 @@
+(Note to Brian: The WAP54G *can* be configured as a bridge. I have two of them in just such a configuration. Took me about 10 minutes to set them up.)
+
+Major modes of operation are:
+
+1. Wireless Access Point (its default set-up)
+2. Wireless Client (connect a wired ethernet device via cable to the WAP54G and you now have a wireless ethernet device)
+3. Wireless Repeater (extend range of wireless coverage)
+4. Wireless Bridge (connect two ethernet networks without running a cable between them -- acts as one end of a "virtual" cable; you need two to get the job done)
+
+A pair of wireless bridges is just what I needed but hesitated to buy the WAP54G because of Brian's comment that this wouldn't work. Because of my newness to the wireless world it took a bit of investigation to come to the conclusion that Brian was wrong. I bought a pair and they do work.
+
+I rate it 4 instead of 5 stars for a few reasons.
+
+1. I understand that higher-end, more expensive, equipment can be had with more range than this box. Gotta leave some room to rate more powerful equipment!
+2. One must dig very deeply into the users guide (a PDF on the CD) to find the default IP address in order to configure this device. Luckily I had read elsewhere what that IP address is (192.168.1.245). Other manufacturers make this info readily available, even going so far as printing it on the device itself. This will be critical info to any Linux user. Also, the users guide says that the default userid for logging in is "admin". Well, it's not. The only allowed userid is an empty field. This had me going for a few minutes.
+3. Something that 99% of the world won't care about -- I like to have more access to the firmware. For example other Linksys products allow one to telnet to the box and do low-level analysis of the box and the network it's attached to. I think there are third-party firmware loads that enable this

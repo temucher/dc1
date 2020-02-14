@@ -1,0 +1,11 @@
+My family and I just relocated 3 states away from our extended family and wanted to get a good webcam to keep intouch with everyone and let our 2 year old see his grandmother once and a while.  When I saw the Microsoft LifeCam at Target stores and that it was compatible with Windows Live I thought it would be worth the $100 price tag to be able to keep in touch with family.
+
+I purchased the software and started the installation process on my computer.    Just so you know,my system is running a pentium 4 processor and has 8 active USB 2.0 connections, only 3 of which are being used for the keyboard, mouse, and this webcam, along with 512MB of RAM which is more than necessary for this product to function.
+
+The software took about 10 minutes to install which I thought was a little odd, then it askes for you to plug in the camera.  My XP system recognized the camera but told me that the hardware had encountered an error during installation and may not function properly.  I uninstalled the software and tried the installation again with the same result.  I then tried a different USB port just in case there was a problem.  Following a stepwise process I checked and updated all drivers for the USB hub, ports, etc. and I checked under the system manager tools to ensure that all were working properly.  I then went to the microsoft website and downloaded the updates for the software (this took another 15 minutes and the site crashed twice).
+
+By now I was getting very frustrated but hoped that the software update would allow appropriate conectivity with the camera.  I went into the software and found that it was recognizing the mic, but it said that there was no camera attached.  I again tried to find the camera through other means with no results.
+
+For the price paid and the 3+ hours I spent trying to install the hardware I can say with all assurity that this product is not worth it.  I will be returning it to Target for a full refund and will look into investing my money with another brand.
+
+As someone else said earlier in the reviews, "does microsoft ever send their products through Quality Assurance before they release them?

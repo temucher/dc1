@@ -1,0 +1,5 @@
+I've been using my BEFW11S4 for a few months now. The little thing has its good points - a nice, unobtrusive little box I can just plug in and hide on top of some piece of office furniture, allowing my rather over-laptop-equipped household some nice convenient net access, while still allowing the home office systems a wired connection.
+
+Sounds nice, if it only worked. Howver, BEFW11S4 has a MAJOR problem, and a rather common one at that. Specifically, it locks up. It does so frequently. I have to unplug the router at least once a day, and frequently twice, to deal with it locking up. Can't even access the administrator screen, and even hitting the reset button isn't enough to fix it. Wireless isn't too useful when you have to physically walk to the unit multiple times a day, is it?
+
+The problem seems to lie not in the hardware, but in the firmware (the software that runs on the router). If Linksys would release reliable firmware for this router, I'd give it 4-5 stars. But until they resolve the issue that wires down their wireless modem, I can't possibly justify giving the BEFW11S4 more then two stars

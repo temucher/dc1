@@ -1,0 +1,29 @@
+I replaced a Siemens 8825 with the Motorola 7081 and was, unfortunately, really disappointed. The 8825 while rich in function, is quite lacking in quality. So what's good about the 7081 is:
+
+1.	Great design and feel, especially the handset.
+2.	Nice look to the unit.
+3.	Well-lit displays.
+4.	Easy to understand voice prompts when accessing remotely.
+5.	Reasonable range.
+6.	Nice feel to the buttons.
+7.	Fairly easy to go through the setup.
+8.	Ability to sort the phonebook alphabetically.
+9.	Base has phonebook that can be shared by the handsets.
+10.	Motorola customer support (excellent).
+
+Now what's not good:
+
+1.	Even at maximum volume, you can barely hear the speakerphone on                 
+        the base.
+2.	Sound on the handset is distorted, fuzzy. The person on the other
+        end hears a hiss. The volume is adequate, but barely.
+3.	Cannot search the phonebook. If you sorted it alphabetically and
+        need to access a name starting with "Z" you have to scroll through 
+        the entire phonebook.
+4.	Can't record an outgoing message remotely.
+5.	Battery level indicator on handset is useless. When the handset is 
+        in the charging cradle, it shows a charging indication at all
+        times. When it is out of the cradle, it doesn't show anything.
+
+I really wanted to like this unit because it has such a nice look and feel to it but the poor sound quality is a showstopper.
+

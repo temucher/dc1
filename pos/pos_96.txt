@@ -1,0 +1,1 @@
+A simple, cheap investment.  This CF reader actually does what it should, i.e. transfer info from compact flash to the computer.  Previous Kodak 1.0 multi-card reader had issues after a few weeks, and stopped working after 2 months.  This one is much faster and is still working.  Ahhhhh

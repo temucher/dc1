@@ -1,0 +1,15 @@
+Note: I am fully aware that compact flash cards have a maximum sustained upload speed which caps off the potential speed of the medium it is being transferred on.
+
+
+I purchased this product to use in conjunction with my SanDisk Ultra II compact flash cards.  I thought that PC cards would be faster than USB 1.1 and 2.0, but thats not the truth.
+
+Whenever I try to upload files from my CF cards thru the PC card, it slows down the ENTIRE system.  I can't do other tasks while the card is uploading files since everything is acting sparatic and slow.
+
+I'll admit, the card is a bit faster in uploading files than USB 1.1, but I can't do anything else on my computer while the card is working.  Honestly, I would rather have a little bit slower performance with my USB 1.1 card reader and be able to work on my computer at the same time instead of having the card slow down my entire system.
+
+I believe this card is a 16-bit pcmcia card.  I've heard good praise for Lexar's 32-bit pcmcia cards, but I have yet to try it out.  I'm sure it costs more money than this PC card or a USB card reader, though...
+
+
+All in all, I suggest getting a USB 2.0 compact flash reader over this product if you want to work on your computer at the same time as you are uploading files.
+
+Otherwise, if your the kinda person who doesnt mind leaving the computer alone while the files are uploaded to your computer, this will work just fine for you

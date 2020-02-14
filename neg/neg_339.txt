@@ -1,0 +1,1 @@
+Dont microsoft ever send their software thru Quality Assurance checking? They asked me to install a windows update (KB something or the other) saying that it prevented the software from running at 100% CPU usage. Lo and behold, it still gets stuck!! Task Manager dutifully reports that it is after all consuming all resources

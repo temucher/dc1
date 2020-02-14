@@ -1,0 +1,5 @@
+The manufacturer only lists software compatibility with OS 9. Guess what... Mac OS X (works great with 10.3) has built in support. Just plug it in to a USB port and it's available in the system preferences pane under Energy Saver. From there, you can set auto shut down and monitor the battery charge in the unit.
+
+This is definitely recommended for smaller computers/monitors or people needing short run time. I'm using it with a PowerBook so that I can gently spin down my attached external hard drives and still have protection for surges on the printer and speakers.
+
+You might want to consider the BackUPS Office 650 (Model #BE650BB) instead. You get considerably more run time and 2 more outlets (8 total instead of 6 total on this unit)

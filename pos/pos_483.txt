@@ -1,0 +1,1 @@
+I downloaded the driver from Trendnet's website before installing the adapter. I did not encounter any problems at all, including the issue that some users had with it disconnecting when they plugged in another USB device

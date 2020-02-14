@@ -1,0 +1,5 @@
+OK. I take my words back. I found a solution to the connection problem with windows xp. Download a patch (	WindowsXP-KB884020-x86-enu.exe, solving WPA issues) from microsoft, then everything goes as it should be. 
+
+-------------------------------------
+
+i bought this USB adapter along with DI-624 router for $99. The router works perfectly fine. The USB adapter gave me so much trouble. i used it to connect my desktop pc to wireless network. It works when the network is not encrpted. But it won't find an IP address under WPA security. It searches IP address endlessly. I have winxp sp2 which is supposed to support wireless flawlessly. I think either this so-called 108m bps or the driver causing the trouble. Having seen others having problem with other brands of USB adapter, i think maybe for desktop, a wireless pci card is better

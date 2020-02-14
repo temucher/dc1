@@ -1,0 +1,21 @@
+I ordered this unit with high expectations, lots of memory, expandable, multiple modes, from a well known company and an excellent price; how could I go wrong?.  Easily enough, as it turns out.  
+
+I was unable to load it and control the play lists.  Trying to use it in MTP mode always crashed the host (BSOD) so I reverted to MSD (Mass Storage Device) mode using drag and drop.
+
+Dragging a folder to the device was pointless.  Most of the time the files didn't even show up, and when they did they were scattered all over the place.  I copied 82 files from the Lord of the Rings set into a single folder, only 52 could be found even during play back, but they could be seen from "My Computer" on the host system.  After fooling around with it for a couple of hours I gave up and called SanDisk technical support certain they would be able to help me sort it out. 
+
+I have to admit that I was pleased with their support even though in the end they were unable to resolve any of the problems other than by suggesting that the only way to use drag and drop was to dump everything into the MUSIC folder where it would play in whatever order the device wanted; a totally useless method. 
+
+This was totally unsatisfactory since there was no control over the play list and no way to even find all of the files that would fit into 8+gb.  Imagine listening to the first movement of Swan Lake followed immediately by something from 9 Inch Nails, then maybe a Bach Cantata!. 
+
+Using Media Player to sync did no better.  Creating a playlist (m3u) of 82 files and then syncing did exactly the same as drag and drop.  A hopeless mess, no play order, missing files and so on.  
+
+After spending 3 hours with SanDisk tech support we were both more than ready to quit.  The tech had no more idea that I did about how to solve the problems that plagued the player and we both gave it up as a bad job.
+
+This is little machine has plenty going for it in the specification, but it's hopelessly flawed in the implementation, and this is without complaining about the stiff control wheel or the overly small buttons.  
+
+Throughly frustrated, it was in the mail being returned less than 8 hours after I received it.  I just cannot recommend this player, it needs a through overhaul of the interface and firmware; and fixing the control wheel and buttons would be a plus as well.  As it stands, it's without merit as a player.
+
+
+
+										

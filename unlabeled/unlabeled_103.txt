@@ -1,0 +1,14 @@
+Look, for a bargain-basement product, what do you expect?  First, you expect it to work, and I can confirm it definitely does work.
+
+When plugged in to USB, it signals XP correctly.  The driver software is very tolerant.  You can install it at any time and there is never a resource conflict or problems with the system recognizing the device.  So installation is a 5 minute process.
+
+Next comes the capture and initial encoding.  Well, the software is a bit lame as far as features and GUI.  Typical.  But it absolutely saves in MPEG2 / DVD format just as you'd need it to for making DVDs of all your Dish Network or PS2 or VHS content.  
+
+The frame rate is full on 30 fps.  It takes an SVIDEO or standard RCA video signal.  Both are just fine in quality.  The resolutions are not that great... but its passable for DVD when you crank it up.  Don't think you can encode some Blu-Ray quality MPEG with this though.
+
+As far as the overall durability of the product, I've literally left mine plugged into the wall and running for about 1 year straight.  It gets hot, but its never so much as flickered or needed reset.  
+
+Bottom line?  This thing is like a kids toy- its cheesy but tough as nails.  Get it for your first analog signal MPEG encoder.  Its a good value.
+
+
+

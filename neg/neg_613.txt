@@ -1,0 +1,11 @@
+I had this adapter running in my the Cardbus slot of my Windows 98 computer and it ran fine. I installed it on my Windows 2000 laptop. Well, my first sign of trouble was a warning popup when I installed the drivers that the drivers were not certified by Microsoft. So, imagine my shock when my brand new computer constantly got Blue Screen of Death (BSOD) crashes. Big blue screen, loss of data, computer freezes tight, power button inoperative, and when you have to use a pin to press that tiny little laptop reset button on a brand new computer, well, we all know that's when you're in Computer Hell.
+
+I'm a Microsoft Certified Professional so I was able to narrow down the source of the problem. After definitely identifying the FA511 as the culprit, I contacted Netgear's online  tech support. And that's when things really started to get ugly.
+
+It took forever for Netgear to finally give me an answer. This was after days of inactivity, wildly inappropriate responses, and repeatedly requesting same information from me.
+
+Finally, Netgear escalated the problem to their next level of tech support and I was shocked to read their solution: "This is a Windows issue regarding permissions and ***16 BIT*** compatibility mode" While they were vague as to the exact nature of the problem, and contradicted themselves as to whether compatibility mode had to be enabled or disabled, their solution was straightforward: I was directed to a Microsoft Knowledge Base article which tells you how to enable Compatibility Mode - and for 16-bit compatibility mode I had to make my nice clean Windows 2000 computer compatible with Windows 95 (yes, ninety-five).
+
+So, while the FA511 hardware is a 32-bit Cardbus adapter, apparently their drivers are 16-bit!!! No wonder the FA511 was never certified for Windows 2000. And I wouldn't trust it for Windows XP either.
+
+There are other Ethernet adapters out there by 3COM, Belkin, Linksys, SMC, and Xircom that work flawlessly with Windows 2000/XP by companies that will respond to your questions. Go get them. Avoid the FA511

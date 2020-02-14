@@ -1,0 +1,5 @@
+When I bought my camera, the vendor included one of these cards as part of the package.  It was very quick--far faster than any of the 512MB cards I had on hand, even those that were of the previous generation of "professional" Lexar cards.  My camera seems to have no delays writing from its buffer to the card, to the point that I can easily shoot multiple frames per second repeatedly.
+
+My only complaint is in the card's reliability.  After about a month of medium-load use (about 1000 photos taken), the card ceased functioning while within the camera.  Neither could my camera read or format it nor could any of my card readers (including the PC Card slot on my laptop with a CF adapter).  The image "rescue" software provided by Lexar on the card was of no use, either.
+
+Lexar replaced the card, which has worked fine ever since.  However, I purchased a second one, which subsequently also failed after about 2000 photos taken.  Again, the included ImageRescue software failed to help--it found errors but could not do anything about them--but a commercial image recovery tool I purchased was able to read, then reformat, the card, and it has worked reliably since

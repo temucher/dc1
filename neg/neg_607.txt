@@ -1,0 +1,15 @@
+I bought this since it's economical, compact, didn't need cabling (although it has an extension if you need it), advertised a whopping 108 mbps. Well so much for that:
+
+1) Drivers are problematic and causes conflicts with XP SP2.  My first ever blue screen of death in about 3 or more years running XP came this item
+
+2) It is EXTREMELY UNRELIABLE:
+
+- already mentioned repeatedly, it overheats
+
+- it drops connections randomly and yes, the only way to re-acquire the signal is to unplug and plug back in
+
+- It's utility is worthless, just install the driver (if you can). If you try using WPA, forget about using this utility, just use Windows to configure it. 
+
+- I've also found out that it's better if you just remove this utility from the STARTUP (don't run it at all) so that Windows can do everything it needs to connect, which is faster and more reliable. Be careful not to UNINSTALL, since it will also remove the driver...just remove it from your Windows Startup folder list. Netgear has an FAQ about this problem, but I'm not going to tweak Windows and risk more stuff for this cheap piece of hardware.
+
+3) 108 MBPS? Yeah right. You'll need the RIGHT KIND OF access point/wireless router for this, if not, it's 54 mbps. This was one of the selling points, but it's definitely a "gotcha". You're limited to specfic equipment, specific channel (6), so if you have neighbors on the same channel, well, you get the picture

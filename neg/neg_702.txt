@@ -1,0 +1,5 @@
+I bought one of these, it has a bad audio "crackling" noise on every mode except FM tuner (an obvious defect). Sounds like a capacitor going bad, not sure how it got through final test. 
+
+Plus, the audio has noise when the display updates or the volume is changed. It also hangs on to stereo mode on weak signals with no blend or rolloff, you hear audio tones from the stereo decoder PLL losing lock from the station 19 KHz pilot tone.  AM section is not bad, but the FM selectivity is not good enough to block alternate stations that most of my other radios deal with just fine.  Volume steps are so small it takes forever to change, needs a flippin' crank on the knob.  
+
+Don't buy this steaming turd.....buy a no-name China box, then you can throw it away when it claps out without feeling like you got scammed.       

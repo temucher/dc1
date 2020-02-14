@@ -1,0 +1,10 @@
+I am running the RadioShark on a G4 PowerBook w/ Mac OS X 10.4.  I am very happy with the programmed recording - saves to a variety of formats, etc. Very handy! The unit did all that it promised, but it could have had much better software. A Dashboard Widget is also included that controls basic operation, but not recording or EQ.
+
+Needed additions:
+1. Station presets are selected from a drop down menu??!? One has to go to the RS menu bar (top of screen) to find the favorite Stations - kind of klunky. Better to have "radio buttons" associated with the App window. To be fair, the Widget does have better station selection, but the button is labeled with a 'heart'...
+2. No station "scan" function. One has to dink through the entire spectrum manually - wow - hard to understand this lack of functionality.
+3. Some additional audio filter/edit functions could be included. There is a multi-band EQ that works well, mostly (see comment below). At minimum there should be a hiss filter and a hum filter with variable levels of effect. Also, one should be able to edit out unessential material from an audio file. Though, for Mac OS X there is a nice freeware app that can do this:  AUDACITY.
+
+Oddities
+1. When first installed, the output had static in it which was worse with the EQ on. Griffin Tech Support was not very helpful - as with most tech support offerings, they failed to grasp the actual problem and replied with unhelpful suggestions. Re-installed software and it began working well.
+2. Initially did not seem to work well thru an external (powered) hub; now has no problems. Though, unit does work okay with a USB extension cable

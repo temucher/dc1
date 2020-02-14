@@ -1,0 +1,6 @@
+This is a great remote, but the software that comes with it is some of the worst I have ever seen published by an international company.  
+Be SURE to download version 1.1 of the software as the remote still ships with 1.0.  It is slightly less painful to use.
+
+Sony RM AX 4000 software update:
+
+http://esupport.sony.com/perl/swu-list.pl?mdl=RMAX4000&UpdateType=Update

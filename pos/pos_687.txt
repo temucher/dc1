@@ -1,0 +1,1 @@
+Upgraded from 19" Viewsonic CRT. This monitor is superb! Recommendation: go with native resolution, enable Clear Type through display settings, and download the monitor drivers from Viewsonic (XP uses standard drivers, not as good as Viewsonic's imo), then restart, makes a huge difference over settings out of the box.

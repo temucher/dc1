@@ -1,0 +1,14 @@
+Bottom line up front:
+
+Works very well, very low price, works much better with the 
+included drivers than with the generic windows xp driver
+
+Detailed review:
+
+I bought this so I could use my new Treo 700w with my non-bluetooth-enabled laptop.  The price was my main motivation in buying it.
+
+Initially I just plugged it in and used the default windows xp drivers and it worked okay, however it didn't always work and i'd have to unplug/replug for my phone and the device to find and talk to each other.
+
+After getting tired of that, I decided to install the drivers that ship with the product.  I've had a much better experience since i did that.  I was afraid the software would be really clunky given the cheap price, but it's actually quite good and gives you a TON of options that the standard XP driver does not provide.
+
+If you use a this with a laptop and you dock/undock it, you'll have much better luck if you stop the adapter prior to docking/undocking.  Otherwise, you'll probably end up having to unplug/replug it

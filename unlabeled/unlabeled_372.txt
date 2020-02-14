@@ -1,0 +1,1 @@
+I bought this memory card for my camera sd500.  At first, I was very dispointed when I only see 1gb on my laptop.  After googled around, I realized I need to update my laptop sd reader driver to recognized sd card that is over 1gb.  I'm able to see full 2gb after driver update.  Just make sure you update your device/laptop firmware/driver first

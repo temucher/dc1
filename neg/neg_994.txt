@@ -1,0 +1,4 @@
+I was really happy with the mouse for all of 10 minutes.
+The scroll wheel is really "push happy" such that when I roll the wheel, the middle button registers a "click" very often. In order to prevent the inadvertant click, I have to roll the wheel with the lightest of light touches. It's significantly more senstive than my older logitech wheel, and was really really annoying to have the browser repeatedly register the middle button (which is unix is the default "paste" so I'd have pages and pages of text that I "selected" be pasted on to the browser or editor while what I really wanted was just to scroll the buffer!!!
+
+Too bad, the mouse was really high quality overall.

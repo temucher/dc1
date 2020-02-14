@@ -1,0 +1,3 @@
+Bought this card for my XDA I PDA. Worked fine right out of the box. However, this only showed up as 118mb card !!! not sure if this is the SD card itself or the PDA causing the loss of some 10mb worth of space.
+
+Also it is slow to write to the card, but quite fast when reading from the card.

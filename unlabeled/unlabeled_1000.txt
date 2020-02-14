@@ -1,0 +1,9 @@
+It is the year 2005. The 21st Century. We've put men on the moon. We've launched space probes to the edges of our solar system. We can even remotely drive little vehicles along the surfaces of other planets.
+
+But we can't design a simply on/off button.
+
+The on/off button for the Blue Logger is one of the most insanely stupid things I've ever encountered. Some mentally-challenged engineer somewhere decided that you have to hold the button 2-4 seconds to turn it on, and 2-4 seconds to turn it off.
+
+It doesn't *sound* that difficult to do, but in practice it is infuriating, especially when you are trying to turn it on but end up turning it off. Right now the Blue Logger is sitting in front of me and I cannot turn it off. It simply will not turn off.
+
+Oh, and I've had lots of problems connecting it to my Bluetooth adapter, and have yet to get Street Atlas USA 2005 to recognize it

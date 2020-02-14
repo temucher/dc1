@@ -1,0 +1,6 @@
+A friend gave me this card for free, when I travled to Arizona. I use this card in my Dell X51V.
+
+From time to time, this card can't be recoginize by the PDA. I have to pull it out and re-insert it in, and reset my PDA.
+Then oneday, my GPS software showed "Map data corrupted". All the data in the card was wiped out, and the card's space reduced to around 300M, have no idea where the remaining space goes to.
+
+Don't put important data on this one!!! That's my lesson

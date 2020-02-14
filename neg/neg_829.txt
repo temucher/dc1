@@ -1,0 +1,4 @@
+This drive suffers from repeated Delayed Write File errors.  Ultimately it means you WILL lose all the data on it.
+It is extremely noisy to the point of damaging your hearing.
+Lacie support is poor.
+AVOID

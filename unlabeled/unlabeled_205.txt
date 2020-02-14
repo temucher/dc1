@@ -1,0 +1,1 @@
+Buyer beware.  This reader does not work with large SD cards.  I could not get it to work with a new 4 GB SD card.  My 1 GB cards work fine, but anything over that will probably not work.  I confirmed with with Lexar technical support as they have not tested this yet

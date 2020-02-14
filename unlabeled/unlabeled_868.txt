@@ -1,0 +1,1 @@
+ The burner works well except when burning dual layer discs.  I have colleagues that also have this problem with dual layer discs when using other burners so it's most likely a problem in Nero and not the drive.

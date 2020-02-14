@@ -1,0 +1,1 @@
+Item was advertised as white, but it was really grey. As a result we had to return item and assume the cost of mailing it back

@@ -1,0 +1,4 @@
+I'll admit after reading some of these reviews I was a little weary of purchasing this unit, but I got it for $32, so couldn't pass it up.  I was replacing a LinkSys BEFW11S4 (wireless B).  
+
+In a nutshell, I followed the instructions to connect the hardware, popped the CD in my "hard wired" desktop PC, took a couple of minutes to step through the setup screens (which are totally simple to navigate), enabling WEP along the way.  When I was done, I fired up my laptop (which has built in wireless-G card).  Network was detected immediately... all I had to do was type in the WEP key (which was generated from my passphrase entered during the setup) and viola!  Connected at 54 Mbps!!
+Awesome.  The setup procedure could NOT have been any easier.  I would recommend this device to anyone that already has a cable/dsl router (with a free port) and simply wants to add (or upgrade) wireless-G connectivity in their home. 

@@ -1,0 +1,1 @@
+It's a simple device, so there's not to say about it other than it does the job. You should note that the LEDs on the device remain lit as long as the device is plugged into your PC and the PC is powered (they glow a bright blue).
