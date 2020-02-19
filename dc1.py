@@ -51,12 +51,13 @@ pos_df = pos_df.join(pos_rating_df)
 frames = [neg_df, pos_df]
 full_df = pd.concat(frames)
 
-print(full_df.head())
+# print(full_df.head())
 
 # Okay cool! Now that our data is in a much easier shape, we can start building the model
 model = LogisticRegression()
 # split data into train, test sets
 X = full_df['review']
+# print(X)
 y = full_df['label']
 X_train, X_test, y_train, y_test= train_test_split(X, y)
 
@@ -64,12 +65,12 @@ X_train, X_test, y_train, y_test= train_test_split(X, y)
 vectorizer = CountVectorizer()
 train_features = vectorizer.fit_transform(X_train)
 test_features = vectorizer.transform(X_test)
-print(train_features)
-print(vectorizer.vocabulary_)
+# print(train_features)
+# print(vectorizer.vocabulary_)
 
 model.fit(train_features, y_train)
 test_pred = model.predict(test_features)
-print(test_pred)
+# print(test_pred)
 
 print('Accuracy score: ', accuracy_score(y_test, test_pred))
 print('Precision score: ', precision_score(y_test, test_pred, pos_label='pos'))
