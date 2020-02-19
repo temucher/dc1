@@ -62,16 +62,16 @@ for entry in os.scandir(neg_dir):
     with open(entry, 'r', encoding='latin-1') as f: # encoding param here is a hack, TODO: ask Celia
         goodWords = []
         
+        #lemmatize string
+        cleanString = lemmatize_sentence(f.read())
+
         #remove irrelevant words from review
         wordList = f.read().split()
         for word in wordList:
-            if word.lower not in stopwords:
+            if word.lower() not in stopwords:
                 goodWords.append(word)
         cleanString = ' '.join(goodWords)
-        
-        #lemmatize string
-        cleanString = lemmatize_sentence(cleanString)
-       # print(cleanString)
+
         cur = [cleanString, 'neg']
         neg_list.append(cur)
 
@@ -80,17 +80,17 @@ for entry in os.scandir(pos_dir):
     with open(entry, 'r', encoding='latin-1') as f: # encoding param here is a hack, TODO: ask Celia
         goodWords = []
         
-        #remove irrelevant words from review
-        wordList = f.read().split()
-        for word in wordList:
-            if word.lower not in stopwords:
-                goodWords.append(word)
-        cleanString = ' '.join(goodWords)
-        
         #lemmatize string
-        cleanString = lemmatize_sentence(cleanString)
-       # print(cleanString)
-        cur = [cleanString, 'pos']
+        cleanString2 = lemmatize_sentence(f.read())
+
+        #remove irrelevant words from review
+        wordList = cleanString2.split()
+        for word in wordList:
+            if word.lower() not in stopwords:
+                goodWords.append(word)
+        cleanString2 = ' '.join(goodWords)
+
+        cur = [cleanString2, 'pos']
         pos_list.append(cur)
 
 # combining dataframes
@@ -111,6 +111,7 @@ model = LogisticRegression()
 X = full_df['review']
 # print(X)
 y = full_df['label']
+
 X_train, X_test, y_train, y_test= train_test_split(X, y)
 
 # Tokenize review column
@@ -118,7 +119,7 @@ vectorizer = CountVectorizer()
 train_features = vectorizer.fit_transform(X_train)
 test_features = vectorizer.transform(X_test)
 # print(train_features)
-# print(vectorizer.vocabulary_)
+#print(vectorizer.vocabulary_)
 
 model.fit(train_features, y_train)
 test_pred = model.predict(test_features)
