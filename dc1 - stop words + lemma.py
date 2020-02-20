@@ -123,10 +123,13 @@ test_features = vectorizer.transform(X_test)
 
 model.fit(train_features, y_train)
 test_pred = model.predict(test_features)
-# print(test_pred)
+with open("verify_pos.txt", "a") as r:
+    for i in range (0, len(test_pred)):
+        if test_pred[i] == 'pos':
+            r.write(X_test.iloc[i] + '\n' + '\n')
 
-print('Accuracy score: ', accuracy_score(y_test, test_pred))
-print('Precision score: ', precision_score(y_test, test_pred, pos_label='pos'))
-print('Recall score: ', recall_score(y_test, test_pred, pos_label='pos'))
-print('F-1 score: ', f1_score(y_test, test_pred, pos_label='pos'))
-print(classification_report(y_test, test_pred))
+# print('Accuracy score: ', accuracy_score(y_test, test_pred))
+# print('Precision score: ', precision_score(y_test, test_pred, pos_label='pos'))
+# print('Recall score: ', recall_score(y_test, test_pred, pos_label='pos'))
+# print('F-1 score: ', f1_score(y_test, test_pred, pos_label='pos'))
+# print(classification_report(y_test, test_pred))
