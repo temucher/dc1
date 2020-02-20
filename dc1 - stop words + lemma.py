@@ -108,11 +108,12 @@ full_df = pd.concat(frames)
 # Okay cool! Now that our data is in a much easier shape, we can start building the model
 model = LogisticRegression()
 # split data into train, test sets
-X = full_df['review']
+x = full_df['review']
 # print(X)
 y = full_df['label']
+z = full_df['rating']
 
-X_train, X_test, y_train, y_test= train_test_split(X, y)
+X_train, X_test, y_train, y_test, z_train, z_test = train_test_split(x, y, z)
 
 # Tokenize review column
 vectorizer = CountVectorizer()
@@ -123,10 +124,21 @@ test_features = vectorizer.transform(X_test)
 
 model.fit(train_features, y_train)
 test_pred = model.predict(test_features)
-with open("verify_pos.txt", "a") as r:
+
+#verify if positive accruacy is actually 100%
+
+# with open("verify_pos.txt", "a") as r:
+#     for i in range (0, len(test_pred)):
+#         if test_pred[i] == 'pos':
+#             r.write(X_test.iloc[i] + '\n' + '\n')
+
+#write flagged, fake reviews into separate .txt file
+with open("flagged_reviews.txt", "a") as r:
     for i in range (0, len(test_pred)):
-        if test_pred[i] == 'pos':
-            r.write(X_test.iloc[i] + '\n' + '\n')
+        if test_pred[i] == 'pos' and (z_test.iloc[i] == '1.0' or z_test.iloc[i] == '2.0'):
+            r.write(X_test.iloc[i] + '-- {}'.format(z_test.iloc[i]) + '\n' + '\n')
+        if test_pred[i] == 'neg' and (z_test.iloc[i] == '4.0' or z_test.iloc[i] == '5.0'):
+            r.write(X_test.iloc[i] + '-- {}'.format(z_test.iloc[i]) + '\n' + '\n')
 
 # print('Accuracy score: ', accuracy_score(y_test, test_pred))
 # print('Precision score: ', precision_score(y_test, test_pred, pos_label='pos'))
