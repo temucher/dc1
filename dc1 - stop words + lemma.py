@@ -35,7 +35,7 @@ def lemmatize_sentence(sentence):
     return " ".join(res_words)
 
 #remaining stopwords after cutting off last 50~ words of "from nltk.corpus import stopwords" since they had sentiment value (don't, should've, etc)
-stopwords = ['i', 'me', 'my', 'myself', 'we', 'our', 'ours', 'ourselves', 'you', "you're", "you've", "you'll", "you'd", 'your', 'yours', 'yourself', 'yourselves', 'he', 'him', 'his', 'himself', 'she', "she's", 'her', 'hers', 'herself', 'it', "it's", 'its', 'itself', 'they', 'them', 'their', 'theirs', 'themselves', 'what', 'which', 'who', 'whom', 'this', 'that', "that'll", 'these', 'those', 'am', 'is', 'are', 'was', 'were', 'be', 'been', 'being', 'have', 'has', 'had', 'having', 'do', 'does', 'did', 'doing', 'a', 'an', 'the', 'and', 'but', 'if', 'or', 'because', 'as', 'until', 'while', 'of', 'at', 'by', 'for', 'with', 'about', 'against', 'between', 'into', 'through', 'during', 'before', 'after', 'above', 'below', 'to', 'from', 'up', 'down', 'in', 'out', 'on', 'off', 'over', 'under', 'again', 'further', 'then', 'once', 'here', 'there', 'when', 'where', 'why', 'how', 'all', 'any', 'both', 'each', 'few', 'more', 'most', 'other', 'some', 'such', 'no', 'nor', 'not', 'only', 'own', 'same', 'so', 'than', 'too', 'very', 's', 't', 'can', 'will', 'just']
+stopwords = ['not', 'i', 'me', 'my', 'myself', 'we', 'our', 'ours', 'ourselves', 'you', "you're", "you've", "you'll", "you'd", 'your', 'yours', 'yourself', 'yourselves', 'he', 'him', 'his', 'himself', 'she', "she's", 'her', 'hers', 'herself', 'it', "it's", 'its', 'itself', 'they', 'them', 'their', 'theirs', 'themselves', 'what', 'which', 'who', 'whom', 'this', 'that', "that'll", 'these', 'those', 'am', 'is', 'are', 'was', 'were', 'be', 'been', 'being', 'have', 'has', 'had', 'having', 'do', 'does', 'did', 'doing', 'a', 'an', 'the', 'and', 'but', 'if', 'or', 'because', 'as', 'until', 'while', 'of', 'at', 'by', 'for', 'with', 'about', 'against', 'between', 'into', 'through', 'during', 'before', 'after', 'above', 'below', 'to', 'from', 'up', 'down', 'in', 'out', 'on', 'off', 'over', 'under', 'again', 'further', 'then', 'once', 'here', 'there', 'when', 'where', 'why', 'how', 'all', 'any', 'both', 'each', 'few', 'more', 'most', 'other', 'some', 'such', 'no', 'nor', 'only', 'own', 'same', 'so', 'than', 'too', 'very', 's', 't', 'can', 'will', 'just']
 
 # Need to iterate through neg and pos folders, pulling each review into a dataframe
 # 1 dataframe per label, including rating
@@ -56,6 +56,11 @@ with open('./ratings/positive.txt', 'r') as f:
     pos_rating_list = [line.rstrip('\n').split()[-1] for line in f]
 
 pos_rating_df = pd.DataFrame(pos_rating_list, columns=['rating'])
+
+with open('./ratings/unlabeled.txt', 'r') as f:
+    unlabeled_rating_list = [line.rstrip('\n').split()[-1] for line in f]
+
+unlabeled_rating_df = pd.DataFrame(unlabeled_rating_list, columns=['rating'])
 
 neg_list = []
 for entry in os.scandir(neg_dir):
@@ -93,12 +98,33 @@ for entry in os.scandir(pos_dir):
         cur = [cleanString2, 'pos']
         pos_list.append(cur)
 
+unlabeled_list = []
+for entry in os.scandir(pos_dir):
+    with open(entry, 'r', encoding='latin-1') as f: # encoding param here is a hack, TODO: ask Celia
+        unlabeledWords = []
+        
+        #lemmatize string
+        cleanString2 = lemmatize_sentence(f.read())
+
+        #remove irrelevant words from review
+        wordList = cleanString2.split()
+        for word in wordList:
+            if word.lower() not in stopwords:
+                unlabeledWords.append(word)
+        cleanString2 = ' '.join(unlabeledWords)
+
+        cur = [cleanString2]
+        unlabeled_list.append(cur)
+
 # combining dataframes
 neg_df = pd.DataFrame(neg_list, columns=['review', 'label'])
 neg_df = neg_df.join(neg_rating_df)
 
 pos_df = pd.DataFrame(pos_list, columns=['review', 'label'])
 pos_df = pos_df.join(pos_rating_df)
+
+unlabeled_df = pd.DataFrame(unlabeled_list, columns=['review'])
+unlabeled_df = unlabeled_df.join(unlabeled_rating_df)
 
 frames = [neg_df, pos_df]
 full_df = pd.concat(frames)
@@ -111,19 +137,21 @@ model = LogisticRegression()
 x = full_df['review']
 # print(X)
 y = full_df['label']
-z = full_df['rating']
 
-X_train, X_test, y_train, y_test, z_train, z_test = train_test_split(x, y, z)
+X_train, X_test, y_train, y_test = train_test_split(x, y)
+
 
 # Tokenize review column
 vectorizer = CountVectorizer()
 train_features = vectorizer.fit_transform(X_train)
 test_features = vectorizer.transform(X_test)
+rating_features = vectorizer.transform(unlabeled_df['review'])
 # print(train_features)
 #print(vectorizer.vocabulary_)
 
 model.fit(train_features, y_train)
 test_pred = model.predict(test_features)
+rating_pred = model.predict(rating_features)
 
 #verify if positive accruacy is actually 100%
 
@@ -134,11 +162,11 @@ test_pred = model.predict(test_features)
 
 #write flagged, fake reviews into separate .txt file
 with open("flagged_reviews.txt", "a") as r:
-    for i in range (0, len(test_pred)):
-        if test_pred[i] == 'pos' and (z_test.iloc[i] == '1.0' or z_test.iloc[i] == '2.0'):
-            r.write(X_test.iloc[i] + '-- {}'.format(z_test.iloc[i]) + '\n' + '\n')
-        if test_pred[i] == 'neg' and (z_test.iloc[i] == '4.0' or z_test.iloc[i] == '5.0'):
-            r.write(X_test.iloc[i] + '-- {}'.format(z_test.iloc[i]) + '\n' + '\n')
+    for i in range (0, len(rating_pred)):
+        if rating_pred[i] == 'pos' and (unlabeled_df['rating'].iloc[i] == '1.0' or unlabeled_df['rating'].iloc[i] == '2.0'):
+            r.write(unlabeled_df['review'].iloc[i] + '-- {}'.format(unlabeled_df['rating'].iloc[i]) + '\n' + '\n')
+        # if test_pred[i] == 'neg' and (z_test.iloc[i] == '4.0' or z_test.iloc[i] == '5.0'):
+        #     r.write(X_test.iloc[i] + '-- {}'.format(z_test.iloc[i]) + '\n' + '\n')
 
 # print('Accuracy score: ', accuracy_score(y_test, test_pred))
 # print('Precision score: ', precision_score(y_test, test_pred, pos_label='pos'))
