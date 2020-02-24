@@ -147,30 +147,50 @@ unlabeled_df = unlabeled_df.join(unlabeled_rating_df)
 # Okay cool! Now that our data is in a much easier shape, we can start building the model
 model = LogisticRegression()
 vectorizer = CountVectorizer()
-X = full_df['review']
+x = full_df['review']
 y = full_df['label']
 
-features = vectorizer.fit_transform(X)
+X_train, X_test, y_train, y_test = train_test_split(x, y)
+
+train_features = vectorizer.fit_transform(X_train)
+test_features = vectorizer.transform(X_test)
+
+model.fit(train_features, y_train)
+test_pred = model.predict(test_features)
+
+print('Accuracy score: ', accuracy_score(y_test, test_pred))
+print('Precision score: ', precision_score(y_test, test_pred, pos_label='pos'))
+print('Recall score: ', recall_score(y_test, test_pred, pos_label='pos'))
+print('F-1 score: ', f1_score(y_test, test_pred, pos_label='pos'))
+print(classification_report(y_test, test_pred))
+
+#verify if positive accruacy is actually 100%
+
+# with open("verify_pos.txt", "a") as r:
+#     for i in range (0, len(test_pred)):
+#         if test_pred[i] == 'pos':
+#             r.write(X_test.iloc[i] + '\n' + '\n')
+
+
+#flag fake reviews!
+#train new model on entire, pre-labeled dataset: use it to predict labels of unlabeled reviews
+
+unlabeled_features = vectorizer.fit_transform(x)
 
 # split data into 5 folds
-scores = cross_val_score(model, features, y, cv=5)
-print(np.mean(scores))
+scores = cross_val_score(model, unlabeled_features, y, cv=5)
+print("The average accuracy of the model is", np.mean(scores))
 
-model.fit(features, y)
-rating_features = vectorizer.transform(unlabeled_df['review'])
-rating_pred = model.predict(rating_features)
+model.fit(unlabeled_features, y)
+rating_unlabeled_features = vectorizer.transform(unlabeled_df['review'])
+rating_pred = model.predict(rating_unlabeled_features)
 
 # write flagged, fake reviews into separate .txt file
 with open("flagged_reviews.txt", "a") as r:
-    for i in range(0, len(rating_pred)):
-        if rating_pred[i] == 'pos' and (
-                unlabeled_df['rating'].iloc[i] == '1.0' or unlabeled_df['rating'].iloc[i] == '2.0'):
-            r.write(unlabeled_df['review'].iloc[i] + '-- {}'.format(unlabeled_df['rating'].iloc[i]) + '\n' + '\n')
-            # if test_pred[i] == 'neg' and (z_test.iloc[i] == '4.0' or z_test.iloc[i] == '5.0'):
-            #     r.write(X_test.iloc[i] + '-- {}'.format(z_test.iloc[i]) + '\n' + '\n')
+    for i in range (0, len(rating_pred)):
+        if rating_pred[i] == 'pos' and (unlabeled_df['rating'].iloc[i] == '1.0' or unlabeled_df['rating'].iloc[i] == '2.0'):
+            r.write(unlabeled_df['review'].iloc[i] + '-- {}'.format(unlabeled_df['rating'].iloc[i]) + '\n')
+        if rating_pred[i] == 'neg' and (
+                        unlabeled_df['rating'].iloc[i] == '4.0' or unlabeled_df['rating'].iloc[i] == '5.0'):
+                    r.write(unlabeled_df['review'].iloc[i] + '-- {}'.format(unlabeled_df['rating'].iloc[i]) + '\n')
 
-# print('Accuracy score: ', accuracy_score(y_test, test_pred))
-# print('Precision score: ', precision_score(y_test, test_pred, pos_label='pos'))
-# print('Recall score: ', recall_score(y_test, test_pred, pos_label='pos'))
-# print('F-1 score: ', f1_score(y_test, test_pred, pos_label='pos'))
-# print(classification_report(y_test, test_pred))
